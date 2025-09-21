@@ -131,7 +131,8 @@ Risk reduction radius: 10 tiles
 Harbour Small Warehouses are built on the region specific quay system.
 
 Landbased Small Warehouses provide the following ground plates for each skin (3x3 variation under development)
-- OW: no ground, beach, beton, cobble, grass, grave stone, industrial, cobble (jakob), marmor, mosaic, plaza, sand, street stone
+- OW: no ground, grass, sand, street stone, cobble (jakob), cobble, beton, plaza, grave stone, marmor, mosaic, beach
+  ![OW decals](/data/mmx/buildings/warehouse/icons/decals_ow.png)
 - NW: no ground, beach, beton, cobble, grass, grave stone, hacienda, cobble (jakob), mosaic, plaza, sand, street stone, terracota, traditional terracota
 - Africa: no ground, africa grass, dirt, street stone, stone, sand, beton
 - Arctic: no ground, snow, snow plates, ice
