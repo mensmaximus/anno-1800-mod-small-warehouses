@@ -1,0 +1,125 @@
+<ModOps>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477185</GUID>
+                    <Name>Skin Small Warehouse 3x3 Reet Old World</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/ow_3x3_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477185</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_3x3/ow_3x3_reet_default.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_3x3/ow_3x3_reet_beton.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_3x3/ow_3x3_reet_beach.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477186</GUID>
+                    <Name>Skin Small Warehouse 3x3 Reet New World</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/nw_3x3_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477186</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_3x3/nw_3x3_reet_default.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477187</GUID>
+                    <Name>Skin Small Warehouse 3x3 Reet Africa</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/af_3x3_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477187</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_3x3/af_3x3_reet_default.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477188</GUID>
+                    <Name>Skin Small Warehouse 3x3 Reet Arctic</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/arctic_3x3_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477188</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/arctic_3x3/arctic_3x3_reet_default.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+</ModOps>

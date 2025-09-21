@@ -1,0 +1,266 @@
+<ModOps>
+
+    <ModOp Type="addNextSibling" GUID="193990">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477200</GUID>
+                    <Name>Small Warehouses Old World</Name>
+                    <IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Small Warehouses Old World</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477100</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477101</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477102</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477103</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477104</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="193990">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477201</GUID>
+                    <Name>Small Warehouses New World</Name>
+                    <IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Small Warehouses New World</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477105</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477106</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477107</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477108</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477109</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="193990">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477202</GUID>
+                    <Name>Small Warehouses Africa</Name>
+                    <IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Small Warehouses Africa</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477110</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477111</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477112</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477113</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477114</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="193990">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477203</GUID>
+                    <Name>Small Warehouses Arctic</Name>
+                    <IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Small Warehouses Arctic</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477115</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477116</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477117</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477118</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477119</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="193990">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477205</GUID>
+                    <Name>All Small Warehouses</Name>
+                    <IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All Small Warehouses</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477200</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477201</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477202</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477203</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!--
+        <ModOp Type="addNextSibling" GUID="193990">
+            <Asset>
+                <Template>ItemEffectTargetPool</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1337477014</GUID>
+                    <Name>all warehouses</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/icon_warehouse.png</IconFilename>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>All Warehouses</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                  </Text>
+                  <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                      <Item>
+                        <GUID>1010371</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>100516</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>100517</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>269869</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>101323</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>101324</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>101325</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>112656</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>112657</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>112658</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>114509</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>114537</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>114635</GUID>
+                      </Item>
+                    </EffectTargetGUIDs>
+                  </ItemEffectTargetPool>
+                </Values>
+              </Asset>
+        </ModOp>
+        -->
+
+</ModOps>

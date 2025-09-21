@@ -1,0 +1,224 @@
+<ModOps>
+
+    <!-- Old World Skin -->
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477180</GUID>
+                    <Name>Skin Small Warehouse 2x2 Reet Old World</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/ow_2x2_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477180</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_default.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_grass.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_sand.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_street.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_jakob_stone.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_cobble.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_industrial.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_beton.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_plaza.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_grave.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_marmor.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_mosaic.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_2x2/ow_2x2_reet_eco_beach.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- New World Skin -->
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477181</GUID>
+                    <Name>Skin Small Warehouse 2x2 Reet New World</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/nw_2x2_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477181</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_default.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_grass.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_sand.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_street.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_jakob_stone.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_cobble.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_tradition.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_beton.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_plaza.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_grave.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_mosaic.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_reet_eco_beach.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477182</GUID>
+                    <Name>Skin Small Warehouse 2x2 Reet Africa</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/af_2x2_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477182</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477216</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_default.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_steppe.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_sand.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_stone.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/af_2x2/af_2x2_reet_eco_beton.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477183</GUID>
+                    <Name>Skin Small Warehouse 2x2 Reet Arctic</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/arctic_2x2_reet.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477183</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477215</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/arctic_2x2/arctic_2x2_reet_eco_default.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/arctic_2x2/arctic_2x2_reet_eco_snow_v1.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/arctic_2x2/arctic_2x2_reet_eco_snow_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/arctic_2x2/arctic_2x2_reet_eco_ice.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+
+</ModOps>

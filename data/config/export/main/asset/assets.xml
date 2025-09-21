@@ -1,0 +1,41 @@
+<ModOps>
+
+	<Include File="./menu.include.xml" />
+	<Include File="./ow_1x2_simple.include.xml" />
+	<Include File="./ow_1x2.include.xml" />
+	<Include File="./ow_2x2.include.xml" />
+	<Include File="./ow_3x3.include.xml" />
+	<Include File="./ow_harbour.include.xml" />
+	<Include File="./nw_1x2_simple.include.xml" />
+	<Include File="./nw_1x2.include.xml" />
+	<Include File="./nw_2x2.include.xml" />
+	<Include File="./nw_3x3.include.xml" />
+	<Include File="./nw_harbour.include.xml" />
+	<Include File="./af_1x2_simple.include.xml" />
+	<Include File="./af_1x2.include.xml" />
+	<Include File="./af_2x2.include.xml" />
+	<Include File="./af_3x3.include.xml" />
+	<Include File="./af_harbour.include.xml" />
+	<Include File="./arctic_1x2_simple.include.xml" />
+	<Include File="./arctic_1x2.include.xml" />
+	<Include File="./arctic_2x2.include.xml" />
+	<Include File="./arctic_3x3.include.xml" />
+	<Include File="./arctic_harbour.include.xml" />
+	<Include File="./skin_1x2_crane.include.xml" />
+	<Include File="./skin_1x2_simple_yellow.include.xml" />
+	<Include File="./skin_2x2_reet.include.xml" />
+	<Include File="./skin_3x3_reet.include.xml" />
+	<Include File="./skin_3x3_crane.include.xml" />
+	<Include File="./targetpools.include.xml" />
+	<Include File="./trigger_old_world_1.include.xml" />
+	<Include File="./trigger_old_world_2.include.xml" />
+	<Include File="./trigger_old_world_3.include.xml" />
+	<Include File="./trigger_new_world_1.include.xml" />
+	<Include File="./trigger_new_world_2.include.xml" />
+	<Include File="./trigger_africa_1.include.xml" />
+	<Include File="./trigger_africa_2.include.xml" />
+	<Include File="./trigger_arctic_1.include.xml" />
+	<Include File="./trigger_arctic_2.include.xml" />
+	<Include File="./imya.include.xml" />
+
+</ModOps>

@@ -1,0 +1,302 @@
+<ModOps>
+
+	<ModOp Type="add" Path="/TextExport/Texts">
+
+		<Text>
+			<GUID>1337477100</GUID>
+			<Text>Kleines Lagerhaus 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477101</GUID>
+			<Text>Kleines Lagerhaus 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477102</GUID>
+			<Text>Kleines Lagerhaus 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477103</GUID>
+			<Text>Kleines Lagerhaus 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477104</GUID>
+			<Text>Kleines Hafenlagerhaus</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477105</GUID>
+			<Text>Kleines Lagerhaus 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477106</GUID>
+			<Text>Kleines Lagerhaus 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477107</GUID>
+			<Text>Kleines Lagerhaus 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477108</GUID>
+			<Text>Kleines Lagerhaus 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477109</GUID>
+			<Text>Kleines Hafenlagerhaus</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477110</GUID>
+			<Text>Kleines Lagerhaus 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477111</GUID>
+			<Text>Kleines Lagerhaus 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477112</GUID>
+			<Text>Kleines Lagerhaus 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477113</GUID>
+			<Text>Kleines Lagerhaus 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477114</GUID>
+			<Text>Kleines Hafenlagerhaus</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477115</GUID>
+			<Text>Kleines Lagerhaus 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477116</GUID>
+			<Text>Kleines Lagerhaus 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477117</GUID>
+			<Text>Kleines Lagerhaus 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477118</GUID>
+			<Text>Kleines Lagerhaus 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477119</GUID>
+			<Text>Kleines Hafenlagerhaus</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477130</GUID>
+			<Text>Kleine Lagerhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477131</GUID>
+			<Text>Kleine Lagerhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477132</GUID>
+			<Text>Kleine Lagerhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477133</GUID>
+			<Text>Kleine Lagerhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477134</GUID>
+			<Text>Kleine Lagerhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477170</GUID>
+			<Text>Industriell</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477171</GUID>
+			<Text>Industriell</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477172</GUID>
+			<Text>Industriell</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477173</GUID>
+			<Text>Industriell</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477175</GUID>
+			<Text>Gelbe Fassade</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477176</GUID>
+			<Text>Gelbe Fassade</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477177</GUID>
+			<Text>Gelbe Fassade</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477178</GUID>
+			<Text>Gelbe Fassade</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477180</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477181</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477182</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477183</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477185</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477186</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477187</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477188</GUID>
+			<Text>Reetdach</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477190</GUID>
+			<Text>Turm</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477191</GUID>
+			<Text>Turm</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477192</GUID>
+			<Text>Turm</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477193</GUID>
+			<Text>Turm</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477200</GUID>
+			<Text>Kleine Lagerhäuser Alte Welt</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477201</GUID>
+			<Text>Kleine Lagerhäuser Neue Welt</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477202</GUID>
+			<Text>Kleine Lagerhäuser Afrika</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477203</GUID>
+			<Text>Kleine Lagerhäuser Arktis</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477205</GUID>
+			<Text>Alle kleinen Lagerhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477210</GUID>
+			<Text>Nimmt Waren von Ihren Produktionsgebäuden an und versorgt sie damit.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477211</GUID>
+			<Text>Kleines Lagerhaus mit 4 Laderampen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477212</GUID>
+			<Text>Kleines Lagerhaus mit 6 Laderampen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477213</GUID>
+			<Text>Kleines Lagerhaus mit 6 Laderampen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477214</GUID>
+			<Text>Kleines Hafenlagerhaus mit 6 Laderampen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477215</GUID>
+			<Text>Kleines Lagerhaus mit Kran.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477216</GUID>
+			<Text>Kleines Lagerhaus mit gelben Wänden.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477217</GUID>
+			<Text>Kleines Lagerhaus mit Reetdach.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477218</GUID>
+			<Text>Kleines Lagerhaus mit Holzdach</Text>
+		</Text>
+
+	</ModOp>
+
+</ModOps>

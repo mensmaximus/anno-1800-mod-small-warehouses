@@ -1,0 +1,87 @@
+<ModOps>
+	<ModOp Type="addNextSibling" GUID='130248'>
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477150</GUID>
+					<Name>Trigger Africa 1</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<Condition>
+								<SubConditionCompletionOrder>MutuallyExclusive</SubConditionCompletionOrder>
+							</Condition>
+							<ConditionAlwaysTrue />
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1337477110</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets>
+											<Item>
+												<Asset>1337477132</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477110</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+					<SubTriggers>
+						<Item>
+							<SubTrigger>
+								<Values>
+									<Trigger>
+										<TriggerCondition>
+											<Template>ConditionPlayerCounter</Template>
+											<Values>
+												<Condition />
+												<ConditionPlayerCounter>
+													<PlayerCounter>PopulationByLevel</PlayerCounter>
+													<Context>114329</Context> <!-- 1 Shepherd -->
+													<CounterAmount>1</CounterAmount>
+												</ConditionPlayerCounter>
+											</Values>
+										</TriggerCondition>
+									</Trigger>
+								</Values>
+							</SubTrigger>
+						</Item>
+						<Item>
+							<SubTrigger>
+								<Values>
+									<Trigger>
+										<TriggerCondition>
+											<Template>ConditionIsCreativeMode</Template>
+											<Values>
+												<Condition />
+												<ConditionIsCreativeMode />
+											</Values>
+										</TriggerCondition>
+									</Trigger>
+								</Values>
+							</SubTrigger>
+						</Item>
+					</SubTriggers>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+	</ModOp>
+</ModOps>

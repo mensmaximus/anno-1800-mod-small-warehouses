@@ -1,0 +1,1516 @@
+{
+  "files": {
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\building_stone_diff.png": {
+      "sha": "2a7c774cc142531ce2146ddf068672793249645fc878fffb10d7097177cd384f",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_stone_diff_0.dds": {
+          "sha": "81cb20ade56eedbd219f16f1709e1efba87607efd4f45ce99eb5f71ff70e2885"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_stone_diff_1.dds": {
+          "sha": "75775fedda4126fc2675c5064fe1706e3f44609055e1b47d94b7a772af3cbe3c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_stone_diff_2.dds": {
+          "sha": "80e19cb416bc626e992aebee03ab4734814ac3462892fcef2d23d949969a8250"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\building_stone_yellow_diff.png": {
+      "sha": "4550a94286859d4e2d7fb07e62082df79e76d84348862d1a497d97acef4aa2d6",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_stone_yellow_diff_0.dds": {
+          "sha": "76b643f3ea2a10e393f8634d0fc2b069709b8202d46dafdf57dbda2727549872"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_stone_yellow_diff_1.dds": {
+          "sha": "5130028907288022410de23074127c5f7571788b23791711067bed7524e85c51"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_stone_yellow_diff_2.dds": {
+          "sha": "25994a77a45f33004d918679e348e52a30c05b82588048e00695b9707dc64eb5"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\building_wood_diff.png": {
+      "sha": "c30fa5576f7d2a41283b32e39d70566cdd3894e21dc8ad129c07961bdf969c0b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_wood_diff_0.dds": {
+          "sha": "e8d2dd6054414bcebf33d8d7526e4d35aaf7153609308db257069a6b72d7b1b5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_wood_diff_1.dds": {
+          "sha": "e4145e0354cda7fd76a3003c23d7b15198dc05a52636d8a111c07b7d109fcd45"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\af\\maps\\building_wood_diff_2.dds": {
+          "sha": "cf1282bf6cf82b89383cc89335c8ca30a53c0238addc09838041d3740fb1a970"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\building_stone_diff.png": {
+      "sha": "e8c6bc6b21992a7a98abf84082a8cdab752cfdf5cb0ef55352ab8133d67d125a",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_stone_diff_0.dds": {
+          "sha": "b3985ad158b2c160cdf487920192ac13e8ddfdfef9194ceec327bb638c66f6db"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_stone_diff_1.dds": {
+          "sha": "6d63d288c0b2a375cf67f261955a6add3a4d1e685b895c49cdbb8ba637a08e00"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_stone_diff_2.dds": {
+          "sha": "36bbff5bb651bcc5133fb9c224769e6207912d26e8d48abfbf8c5a57b889e67d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\building_stone_yellow_diff.png": {
+      "sha": "5db7661d6f2c27e88856f29a514dad2e636d01acf96894f7dbaa12749f6c4e47",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_stone_yellow_diff_0.dds": {
+          "sha": "837eb8833af67981cd86c6e57c67ceb228229cc6f2fefa34d45655b45ea675a9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_stone_yellow_diff_1.dds": {
+          "sha": "3e3a936cbe6f18affe059eb4d4d637c553d16156a026b5cdfcc68bf8636bccf0"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_stone_yellow_diff_2.dds": {
+          "sha": "6d8983b0dc176dd6a9c90c98db5b1335217a3a7b7da68ee3f3fd784c48390493"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\building_wood_diff.png": {
+      "sha": "6383f83851bb044a3bff59b1a316ed4b6262bcd5f653d3a5ff3f0cccc58ecdd4",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_wood_diff_0.dds": {
+          "sha": "38c6a230d494ec6fa11cf4b8389481d59bc8e8b2cc07f6bb71e348a2b374ada1"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_wood_diff_1.dds": {
+          "sha": "93eec08a094e32407190d7d76603a56cfb6e4d75f3098df8dbcce92a76dd30a4"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\building_wood_diff_2.dds": {
+          "sha": "ca532d7bc56caf07c033bbfdae716f2baf226b9b8ef8de99cccd8b99432f7045"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\crane_plattform_diff.png": {
+      "sha": "46df73d6d78c374a9bd705c584247fc8e35fb030b44229ca898e6c725771bcda",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\crane_plattform_diff_0.dds": {
+          "sha": "a1314db1940a0f54bc1f301aa5a0f49b2bf0668e8cc9658e3d484b41530e478e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\crane_plattform_diff_1.dds": {
+          "sha": "234d876416b9273d5a766022a2bb3970a8f6d8e3d7e0c346d69f97414d4b5347"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\crane_plattform_diff_2.dds": {
+          "sha": "2093f4a0363b616dcf8076e726215f16bf8e50255ae64d8eb7f69f0b863da5e2"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\truckhouse_diff.png": {
+      "sha": "85f2d31b228f1418fbbb82549cb913889d3e58315667dc43a90dd0e2d477828b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\truckhouse_diff_0.dds": {
+          "sha": "24975c27016aa52342e7e3e1350c643c9470d604899b47ed7fea09c842a261a2"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\truckhouse_diff_1.dds": {
+          "sha": "d25300981ecd8a26ede8a76a97fbda51e7d067599b26880c5575cb242096b718"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\truckhouse_diff_2.dds": {
+          "sha": "ce20d13516ab483dedbdbd77b4595ff77693af8887d5b06e92293867a5701396"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\walltower_diff.png": {
+      "sha": "97f2ad3d455c27ff724ae4ea1443da411293d4581dace8b1eb0304030ddde58b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\walltower_diff_0.dds": {
+          "sha": "3992f775efd9ca8a553ea9ce7ae0e1d583978ed585631807fec2570fe5aab41d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\walltower_diff_1.dds": {
+          "sha": "0088c49427be120a5e358890050376045389ee753ee5d7f888fe90d21525a1ad"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\arctic\\maps\\walltower_diff_2.dds": {
+          "sha": "eb20d850b32addd26c3f72ad2e9d2bd4f451967d9d1a16bb883441ac9deebeac"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\building_stone_diff.png": {
+      "sha": "f374c3ebceadb6021a08fb7d28ac2fa92692ebdcbd6828190136f2c5ab73e9e5",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_stone_diff_0.dds": {
+          "sha": "d734a7134c79ca1344f13153e8b33fa7cb692cee951199d0b4c1d342f7c77f54"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_stone_diff_1.dds": {
+          "sha": "cf2db98a5f876d8b210ba2f08923e0e9af599dfc5a89c2a2a82ed896565cd8e0"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_stone_diff_2.dds": {
+          "sha": "da432954c561773c38eff7214a82a7fbc2c356f45f4c8faea45397e3198c9c86"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\building_stone_yellow_diff.png": {
+      "sha": "d58207837383a1af5604f9ebb6c3534d340a9459220903055c59edb0f636e32b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_stone_yellow_diff_0.dds": {
+          "sha": "1ded66b56c53dd43ea6fa7757fbe324b3421de91fe3c3f6abcc9c660e3b6e2c5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_stone_yellow_diff_1.dds": {
+          "sha": "123d4e4ea387d7539054935329a09e9e373152431ba54a5269a7e0bd2822f6ee"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_stone_yellow_diff_2.dds": {
+          "sha": "084c2d608eb788f3d2d1af6b0da2f63c8969df61fb2e05e21929f1223d8a4070"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\building_wood_diff.png": {
+      "sha": "fc458bc3a933e928e84f8befde6f44d0a700525cd613ba0e21818e8f732b2ca4",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_wood_diff_0.dds": {
+          "sha": "4628c7e4c4db521b4d355d2206ee5301b34109c0019b605761fe05697a3698de"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_wood_diff_1.dds": {
+          "sha": "e1f47404a136be1118d4d954c8a9823f87dfa09ca7bb6dd844be5ed59e5a74ee"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\buildings\\warehouse\\maps\\nw\\maps\\building_wood_diff_2.dds": {
+          "sha": "0837dc5bcaedb7944d66e567020785df0e74d62ecfa1bcc0e7dbc01b4207ba03"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_diff.png": {
+      "sha": "07428d5dd658b5b0accfadbb61d71b89ca131e06ca2e66fb6220be35779c6908",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_diff_0.dds": {
+          "sha": "9729986c388b47dcc71dcd7bee54c21a0f815f939b3d8e6111e362e5a6712cfc"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_diff_1.dds": {
+          "sha": "c16a149ba20f34df5563eff717f582e1a19057aed36d9ed5f054cec2c4d72e06"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_diff_2.dds": {
+          "sha": "a00a2c68d907218cb98f89c1263b2bbc5ceeba9fe565c24458153104fdf948e9"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_height.png": {
+      "sha": "e6c8dd737b2da614f2bccbe38a1e2bc7190bd224276473437a0fe03f37539683",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_height_0.dds": {
+          "sha": "3f8414814b563951310e1f919b009a8f210135967036f8edbd5af380fee96443"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_height_1.dds": {
+          "sha": "b86e42553b20b95f9f604b88c633146ffd3069557aad45515290a16455903e8b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_height_2.dds": {
+          "sha": "22eaf172722b44e8b4c2ee0b9cb14e03a9611ca5778c0262e3faca1531e9d7d1"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_norm.png": {
+      "sha": "78c0c0b372ed9e2a6490e08f2083f35cb1783b0ec636905008e8df2734c9f14a",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_norm_0.dds": {
+          "sha": "eaf8940787e0f9517c61581b70fd0baa18012190ba82ce812c8cdc3fae202d16"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_norm_1.dds": {
+          "sha": "f0750ae7caad954b1ca228260864b62db9d0900ee23d15fa3e4a5a65002f0fcd"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\maps\\beach_norm_2.dds": {
+          "sha": "f9364d3eef08cbf05eca5c913b304f98dd48f61e9049dbbc2b0a82abf904588e"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_diff.png": {
+      "sha": "ee644e148d4b82f5698270db831602bc9f30a5b0e55f5d3e99753bc5ebbf22d0",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_diff_0.dds": {
+          "sha": "92542cf1bfb50d3d646ceeeb80352093c24c96b2fac5fdf36b9289bb2a507687"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_diff_1.dds": {
+          "sha": "08ff02f9028e8f01413d2028b7c2ebb3da63470522e1ca543f9857afcd13837e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_diff_2.dds": {
+          "sha": "5ea51822b03249f7b79d76a1bbed8e0a2f1bc0c3087738ecdf1ce318853666bb"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_metal.png": {
+      "sha": "50642598d3f7399afce90feafa39f6a02131a1b8d07ca9a13ef045c225299735",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_metal_0.dds": {
+          "sha": "85c3bdd700d99a00c31846e650d24b2c8095d1d5ca11396d00fcddaf7095c938"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_metal_1.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_metal_2.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_norm.png": {
+      "sha": "eae431598d195855bcdff04f078b0cd4492b140b0de0f39384f67a3fbaba1858",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_norm_0.dds": {
+          "sha": "677900864fe905e75e91cbbc930f46213542fa82f56950ee0a5575f3683fb9ed"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_norm_1.dds": {
+          "sha": "05b7a97a4e84208d77aef4df307a5a33b36b9af10c31b45ed0a06869f8bd3933"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\maps\\beton_norm_2.dds": {
+          "sha": "741845f863cfcf5c132f5372cd780a6e9e2b5b60110162c4110fa5dac6610b11"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_diff.png": {
+      "sha": "696c355bccb35189edbdfa266098ab18f9fc7bdc7502bf9d02f9412b89cd1896",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_diff_0.dds": {
+          "sha": "8002167498c16093e682d537041233889c4d404546e327df5b4f6807e68bf41d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_diff_1.dds": {
+          "sha": "5548eb8b4961ae99c36db281af61e3b3bf881402f792dc0cd909011d3d99ce8e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_diff_2.dds": {
+          "sha": "decd640451c9c0f09448a9acf45c13b9fd19c49c1d6aa5a0f9fdbf80dd491b77"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_metal.png": {
+      "sha": "2990df60c4a4dbc58272efa5da7098d265511712fb996408a15c398fad307130",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_metal_0.dds": {
+          "sha": "0f8b60ed957f8b8a5e5b7fdc0b1326b2f20b5a8e7ac835db2e54101f722bb293"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_metal_1.dds": {
+          "sha": "324e133fea9e658f00af95d9208f371695a7c9beaba9a6c7598b394219e164b7"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_metal_2.dds": {
+          "sha": "c1c985293b9012332391e7227bdfc2a27cacefdf3f14e5dbc29d91a35ab1feb0"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_norm.png": {
+      "sha": "2e0ca6a32a42a19b7b6c316544691f79fae51e6f28fea451d80a47c3001960a0",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_norm_0.dds": {
+          "sha": "46efcf0e9d2edf33bbd6431e6b9a0dd4ac8aaeb9a51ab4468261fb0867183c47"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_norm_1.dds": {
+          "sha": "37db627ef697df3b55a2660a3d48b32ad3b432b6da55ca18b04a262c97cbdd12"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\maps\\cobble_norm_2.dds": {
+          "sha": "b215d9dc40830e6b756c33541b2672339f7fc3d950400d03d03dc9406d93077d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_diff.png": {
+      "sha": "edb81ecf98dea13b45572039ff6aabcdc855376ef55b805ea088f774b32a9a59",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_diff_0.dds": {
+          "sha": "4e950362bbdfec4970e78601b98c328e3e588dc55cd7ed1990ba02c33eec1919"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_diff_1.dds": {
+          "sha": "fbd99875730571eab4f6091cbbb376842f8d22bf1437fc45194b23b83e190a00"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_diff_2.dds": {
+          "sha": "e43bede8d488a9ca5fd820172677b0c8e5916bc907ea3722caef9c84d1489efb"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_height.png": {
+      "sha": "715dc91133ddb05eb7f701d116f62e30cdca1a524ff4dd62ddb5836394116eda",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_height_0.dds": {
+          "sha": "65f2ed121fa5fbd792a7b92e066d98564aff7b39a8806e8be029148acf281dcf"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_height_1.dds": {
+          "sha": "dc1ebce8bb2b6e441aa87d4022cbaaa23f1f963b1bf03ed11e192b2b934cf5e1"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_height_2.dds": {
+          "sha": "6040c668992ccd5526c1466fd91859f15dd225648467ff63e2a37c9ca36b0033"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_metal.png": {
+      "sha": "44b47ada4893035fe795579d0fc622afc814ffa64bcd4f0a99b00f084987c960",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_metal_0.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_metal_1.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_metal_2.dds": {
+          "sha": "2caa2d730885e832e52f8747497aefa7259174c586c8601e189cb2443dd0b498"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_norm.png": {
+      "sha": "a99e3ac5997be9653bd3d980bed7978a17ff546118f0613431b6792701cc1861",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_norm_0.dds": {
+          "sha": "48885bde3fbf18895a3183d4d141540d0bffa34d7dcaad2bd0985b22593d029e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_norm_1.dds": {
+          "sha": "2b7f789f6fe38f34f488acae73d1724e06281cf08cfb73129319f11afb6488f9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\maps\\dirt_norm_2.dds": {
+          "sha": "4afe6a684fa89d5d0283a5e82e506774a2a0b30ff44fb50fad6ead9580474cd8"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_diff.png": {
+      "sha": "8ad0706eb225f6809f22a53f2435742dcd3565965f7806a25485ca63309f862e",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_diff_0.dds": {
+          "sha": "ebdd9d4f89b38d7d67b3350849c884720188dc68aad3678e104d9f8a737bf858"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_diff_1.dds": {
+          "sha": "24cfb04158f65eff6fc2fe553f57d77de0219929bc2119d4af87ccaeb2249303"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_diff_2.dds": {
+          "sha": "c46d2218a7f914b134d4c9174c8ea44ac3567cab55a83df39d4d138158692826"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_metal.png": {
+      "sha": "bef0b2c72fceeb8bc43aa94d098fcaca8ea469f4188c13d0857d20a87763dc19",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_metal_0.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_metal_1.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_metal_2.dds": {
+          "sha": "2caa2d730885e832e52f8747497aefa7259174c586c8601e189cb2443dd0b498"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_norm.png": {
+      "sha": "e1986683f116a3c079419dbe9752dc7571ba298869f05c79e205774533f5526d",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_norm_0.dds": {
+          "sha": "e9b33f4de9a2b62fad2b7b28b575926cfdc4f79dfd0913e821f53c8ff045f962"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_norm_1.dds": {
+          "sha": "e10d6c159690e218663563f9ae91cccd0e837fc8a76d90cf85197d368147d1f3"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\maps\\grass_norm_2.dds": {
+          "sha": "a15516351f1f0ea5cc7588cd3ecc6013ba819af78e81480245f5a1dddb2f21d2"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_diff.png": {
+      "sha": "8ea61366f5e985017eaa1cc48159303c80368a1106c1c420b5a5343f1762b3a9",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_diff_0.dds": {
+          "sha": "1561adcb9bdd1f60ecf3b5a77450b49c29008aa76ad3d0d309e29932b7eae39d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_diff_1.dds": {
+          "sha": "ce2516017784f80e43a977089bfdd7aa2317085867ffbc12ac11e44c8388c70c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_diff_2.dds": {
+          "sha": "c71019260d8a5f72de0e46867fd4ab66087001a122489432033563b6c51120ba"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_norm.png": {
+      "sha": "316265d3f21fc68347b8ab8b36c8e171edb1d5da96216450a1945aefdc994c11",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_norm_0.dds": {
+          "sha": "2d200e363cfeeaf9ac7b7567912f5cf341a60aae399caa8fc935b6fddb9570c2"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_norm_1.dds": {
+          "sha": "e4a9f061da11cc9303d751a5ddc276839d88150564d0097045fef505004de86f"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\maps\\grave_norm_2.dds": {
+          "sha": "544be34c761749ec915ce4398740198716585f6b1ca5259bb02a7d30af499094"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_diff.png": {
+      "sha": "d45c556e3c19ddb2e53ad24e21bf9777335a20fb2c20e18d55eb1479c0fc5d73",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_diff_0.dds": {
+          "sha": "824e6a9242d5c1cffb557bc65b92a39018d81297e2f0582d77ad6e5a43091a15"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_diff_1.dds": {
+          "sha": "b3fc5f6229999780bb8f83acd30286da68185f56dae273f34b3e8291dfaa50a0"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_diff_2.dds": {
+          "sha": "c2b98f65d032c32c52d41a6cc22353b0263e494d9a273dda74255f709705520d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_height.png": {
+      "sha": "6ce304162419c570bce35d0deca36c4feb26fd73128e76705095e3ea5cfb081c",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_height_0.dds": {
+          "sha": "d4f067824d6a2d797e6c190900642a1be0e0459e67ad2f2226883054acfb2b48"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_height_1.dds": {
+          "sha": "123d82e8509faa0e9dce13a9c79683a2bb467d82cdf4f742e54ee90ff3ae0ebc"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_height_2.dds": {
+          "sha": "bd7e78c1e16632a63cee119a1249b4bc74b14a74dd2a3e7b2bbae3ff10ceb3e0"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_metal.png": {
+      "sha": "bc0c254bfb2d0499e38819b0715487631e03a03e884a0c05aa48954f56f70d12",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_metal_0.dds": {
+          "sha": "933797efb9fae08db197c25c574ca6c91a19235829a89b444d0cf2996bbf5912"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_metal_1.dds": {
+          "sha": "32b5911f2cd50df911b26893ab921b9843ac42a414c5da6360660295c6f84dbc"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_metal_2.dds": {
+          "sha": "f91d6d6b4798af4f4297f2b7ff40319e529ab0416a5eb28918b8c2b40c552fe9"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_norm.png": {
+      "sha": "a82784e9cfc17ca17cbed6a699a41dc43661f777d05867de984de4b7f16ca209",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_norm_0.dds": {
+          "sha": "a0364af527b0222a8bc8f6704a7cd9bc05eff685b0937669e2c0088b804cf337"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_norm_1.dds": {
+          "sha": "3a1f75cb757ef8be8c829ef91373e9bbf0db5fac2d69f440ffd4f3b04d0db59c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\maps\\hacienda_norm_2.dds": {
+          "sha": "3ee4c2bec419fe252adbef1a792f308ef0ac57aeca4354f2811799d838365fd2"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_diff.png": {
+      "sha": "c30421bc8f148e68dc8f9f02afa5ace1830c19b8106bf41178fcc39c15ba58a4",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_diff_0.dds": {
+          "sha": "5bc3bce95220335c27b615ad1e51b67dc4ac5eb2ff50463b4180926fc1c954d9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_diff_1.dds": {
+          "sha": "657d201545d589a510e25e2aca9465f33b45b108eeda28ce07064ec31af0988e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_diff_2.dds": {
+          "sha": "6090a279819f06bdbea0f27ac3ce159e05f47908cc2ee04f1719ab768142dc1e"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_height.png": {
+      "sha": "978c7d95d032cea1f8c3f7237d32c78c0a14ea07e187ad515df21d9c8d390192",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_height_0.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_height_1.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_height_2.dds": {
+          "sha": "2caa2d730885e832e52f8747497aefa7259174c586c8601e189cb2443dd0b498"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_norm.png": {
+      "sha": "082e2b8358321243cfce8bc09f4204fd9936f163efa254c81442bd4491e92db3",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_norm_0.dds": {
+          "sha": "c06d4b129f349a906e896ab7b4165680339d9b2171476ca70b81133210a40a99"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_norm_1.dds": {
+          "sha": "09c51c33c5f378fe0b4e9a3113598f5fb8290d0f1457322c87b945819fcce6d5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\maps\\ice_norm_2.dds": {
+          "sha": "3a64a08308c9daffdada73b5a3b6fb21e81c4bfeddca052c4b9ac9e6d7b24e45"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_diff.png": {
+      "sha": "e9865349cfd8ae49ac086ca2f18db3450d8ad4b8a4c7a752a87603b15960c609",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_diff_0.dds": {
+          "sha": "d047993ef0154910d42576d269d8c865ed8b5baa25ae567032873df173b4d720"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_diff_1.dds": {
+          "sha": "2a817f7204504c568edafa74f5521f78fa13720518d304cd0411987ff1e4359a"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_diff_2.dds": {
+          "sha": "46339c500df9e25ebc518be7dfa95e3de353d4ecac56aa2091e78f141f75000c"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_metal.png": {
+      "sha": "50642598d3f7399afce90feafa39f6a02131a1b8d07ca9a13ef045c225299735",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_metal_0.dds": {
+          "sha": "85c3bdd700d99a00c31846e650d24b2c8095d1d5ca11396d00fcddaf7095c938"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_metal_1.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_metal_2.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_norm.png": {
+      "sha": "31d19fe3b4ba1e99ca7badc7192d8664b33b2c6198c28d5255705a603d6f541c",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_norm_0.dds": {
+          "sha": "3e5cc96f2a320ca2d8ab57be7128fd70378f6ff2287a99fed7bd91c65daad1eb"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_norm_1.dds": {
+          "sha": "c4df87f70f48c883f05b340fc730ea78c90ad331080b1a8a24fc4648aa2ef224"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x1_norm_2.dds": {
+          "sha": "28fb69795ba473fc8ed5f2886f78a8df8160be350bf942d356876548684ba7b1"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_diff.png": {
+      "sha": "91ac34769699c076b3cea38296acb7d5b2c677a3f0c8d40de029cb6ccb1cc755",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_diff_0.dds": {
+          "sha": "ddfad64c0f017646a313c081c654288f132f5fa4fad2e578aff0f8b3d71633db"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_diff_1.dds": {
+          "sha": "db9a95b59ddca2ef2b9dd0798d6b1e41997d5dbc6110a0aee5cc7edc578bfe65"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_diff_2.dds": {
+          "sha": "9fdccae580383034a7c7ea5a448a484fa11c6a24d82e5862874be830b1994310"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_metal.png": {
+      "sha": "63483a571efb35c4cca1a04d0fcb3a725d98d8021f3a0cd15854ffd4558300b0",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_metal_0.dds": {
+          "sha": "7235f3f7855436164442186adff30d2c38d1adb1c5c53c7cc44d543466a5dfbd"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_metal_1.dds": {
+          "sha": "f6b074e346152765a1a8ff6cbe635908fb87249a12cb7efa1457da461d0ab726"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_metal_2.dds": {
+          "sha": "72ea479ddb8fd8cc17ba3e6b06c749d4ef73b40a6e1d0559ffd229b513646342"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_norm.png": {
+      "sha": "3a1949081652e6baa88699160c4cd14244707d380f32f34ac4b10de3391a8214",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_norm_0.dds": {
+          "sha": "3c7121d706fc0b270ac027a21b1df33aad4454e2361283ff00cb525abad9d76c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_norm_1.dds": {
+          "sha": "57f4cca6781c12908b0669621b0b260f0295c67ccadbb6116c92d70de7266883"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_1x2_norm_2.dds": {
+          "sha": "7a8d6635f2f701b510c548d124f67b4ae74871a13093b35565624fe8ca7d6da4"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_diff.png": {
+      "sha": "a1a1114eb7eeefe58c5f26d93d6f4efaa4e502ed2259114741568b14402aa4fb",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_diff_0.dds": {
+          "sha": "3eba4e1f53d88a174c71217df8ee32cbd4c952b097c52bbb137a9ebd69934240"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_diff_1.dds": {
+          "sha": "dc8b9b4aa079ab1cae395cb26b3bc15cf2d876935732a0ec9f41ae2aebad66ed"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_diff_2.dds": {
+          "sha": "7da905e0db9380c1c6d075e37cb0856b5b247be67384c1be7c406b26dba8c0ac"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_metal.png": {
+      "sha": "174b20567fbba399c28fafcd7dc2cc089d00b35ab44ab108375b6d995b91c201",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_metal_0.dds": {
+          "sha": "7dcb9517366a5c9df4aeef2e500334cc602e5b2416c761feb14da1b0f5203b6f"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_metal_1.dds": {
+          "sha": "384c45c3135009811d3f884e79f2eaec820afb350c8893e73175033564f5c3b8"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_metal_2.dds": {
+          "sha": "e9ba6a7cecf50d7ad98c0f8bff9edfc1bc574d5b248fe9392777b815c3b43674"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_norm.png": {
+      "sha": "d73c1982792099153fc55cd5f3c3e2c62e490c957be81f7158d66f23eb4257dd",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_norm_0.dds": {
+          "sha": "ae2363269cc5038eb10863c14f42f1059f646237503572d578450aa56974417d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_norm_1.dds": {
+          "sha": "29315c7839954cd311d9dc210c1fcfb27dad17b80051b3b3217a68ba9045e81b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\maps\\industrial_2x2_norm_2.dds": {
+          "sha": "8bd17c8dd587111ccd5134cdc0a0b458ffb72af16414c1012e6e338f4e4fdd22"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\maps\\stone_metal.png": {
+      "sha": "50642598d3f7399afce90feafa39f6a02131a1b8d07ca9a13ef045c225299735",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\maps\\stone_metal_0.dds": {
+          "sha": "85c3bdd700d99a00c31846e650d24b2c8095d1d5ca11396d00fcddaf7095c938"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\maps\\stone_metal_1.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\maps\\stone_metal_2.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_diff.png": {
+      "sha": "b34177507e93245448441f81aae910c9b4ef5b992e8d06262b30c47463e95c12",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_diff_0.dds": {
+          "sha": "1f9195da7ba79cb8df843a135b25642feea9e04fb44e28e2afc989171bd16103"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_diff_1.dds": {
+          "sha": "2d63bc2a3d7d3a07e7294b3028c2f42896ac5ddaf2751cda5dab726d3766704c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_diff_2.dds": {
+          "sha": "f538e8da1c3166975b2e3bbee1563f5b632562b93f475264697189917b3b68f1"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_metal.png": {
+      "sha": "a9e7dbdee7865d7ccd7c60d5a32535b655e7c2f8d72c69c320ed800355fae026",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_metal_0.dds": {
+          "sha": "6b9c32beeb97a51e3f114765cb39f03c497cceea345b639412eb034bddc80c12"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_metal_1.dds": {
+          "sha": "1258acbca4e2dea3185127647dacdaffb109658462b3fe2f5cde66f18786cfb1"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_metal_2.dds": {
+          "sha": "8b899312fd6646e4ebb95294724e3cc3663122e0bcfaa18ff3f597f6c90fe496"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_norm.png": {
+      "sha": "0b467a6684e6990f3e2de04d190893c02683ed5880c2d11c5f596cd2dfb27983",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_norm_0.dds": {
+          "sha": "5f7c87aa040f335bf3e99135b9c5473403d16b0403fa175ff91401889bc5f86d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_norm_1.dds": {
+          "sha": "db3efeee0786757b34182289ab8ae37853e147d3e1a40234a7b48a348926bf81"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\maps\\marmor_norm_2.dds": {
+          "sha": "16483f78f54f2821bd38c73ac022fa42153b5ab7632c06504f58706a083d04a9"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_diff.png": {
+      "sha": "150e1a2d2f2e49ffc340072ea010fa5cf273e34775aeb29d707c6b8bb65f1c7a",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_diff_0.dds": {
+          "sha": "8b5c001d537678bcd62d349ce51567f91bb3742bcc407289e1dbae57119aa3c5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_diff_1.dds": {
+          "sha": "5a31b6c7d775beddcfc163b361deb89e4c4d93cd62a11fc55326731e3fb7d0c2"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_diff_2.dds": {
+          "sha": "c8d3ed4028357d36285fea538c0363ec642b4b17868b8278f63ee28d298401de"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_norm.png": {
+      "sha": "b9e5c65497608e867be4fefb41eafd97c60bf772273abdbbf7f8750810150fa1",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_norm_0.dds": {
+          "sha": "175d10c9b172a85cefa7d3b28f415e172e3cc7d3ae12ab5775f360c574eece02"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_norm_1.dds": {
+          "sha": "bace6ba6e7f9ba1d01d097681baa4b51fa78c30c1848af7054c4f15e9ab7475b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\maps\\mosaic_norm_2.dds": {
+          "sha": "beafd7003fe18ef6d9d2b90b8bcebad3cc002cdc964f8806e608fa6b15f0eab8"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_diff.png": {
+      "sha": "8ad0706eb225f6809f22a53f2435742dcd3565965f7806a25485ca63309f862e",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_diff_0.dds": {
+          "sha": "ebdd9d4f89b38d7d67b3350849c884720188dc68aad3678e104d9f8a737bf858"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_diff_1.dds": {
+          "sha": "24cfb04158f65eff6fc2fe553f57d77de0219929bc2119d4af87ccaeb2249303"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_diff_2.dds": {
+          "sha": "c46d2218a7f914b134d4c9174c8ea44ac3567cab55a83df39d4d138158692826"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_metal.png": {
+      "sha": "bef0b2c72fceeb8bc43aa94d098fcaca8ea469f4188c13d0857d20a87763dc19",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_metal_0.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_metal_1.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_metal_2.dds": {
+          "sha": "2caa2d730885e832e52f8747497aefa7259174c586c8601e189cb2443dd0b498"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_norm.png": {
+      "sha": "e1986683f116a3c079419dbe9752dc7571ba298869f05c79e205774533f5526d",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_norm_0.dds": {
+          "sha": "e9b33f4de9a2b62fad2b7b28b575926cfdc4f79dfd0913e821f53c8ff045f962"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_norm_1.dds": {
+          "sha": "e10d6c159690e218663563f9ae91cccd0e837fc8a76d90cf85197d368147d1f3"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\maps\\noground_norm_2.dds": {
+          "sha": "a15516351f1f0ea5cc7588cd3ecc6013ba819af78e81480245f5a1dddb2f21d2"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_diff.png": {
+      "sha": "ff0518eb4b28a820ee08bf1dff8fec85c625c81dfd5e79daf9149137ebfe0c8c",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_diff_0.dds": {
+          "sha": "43b8984eb19ae4b517f32f2d713dd3f1f85d28d618bfb2253be094bdffe5990f"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_diff_1.dds": {
+          "sha": "2fe4f08303efad3c7edca0d5d0b2617bee1af90b76813e90cf207a9117b86639"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_diff_2.dds": {
+          "sha": "92b50896fc102ff781117d9550a0d48baed6c5d036b64af1b1d70bdf5ddd6c71"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_norm.png": {
+      "sha": "f01088215a932034f162188f0f0a8aeaa68fad9cab00fc189b32dfee324e91d5",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_norm_0.dds": {
+          "sha": "2974da98dab938cc90f843b4a8fc2acf16318b380c458d1e5a0735bed2bc490f"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_norm_1.dds": {
+          "sha": "88cc134180edcf6551a5b3637f58f8bc7648d4fc464fed7a089dbe27a8550adb"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\maps\\plaza_norm_2.dds": {
+          "sha": "ace65629911252a53a491c2c325806a52eeaff0511e98fbffd267c44abfc1060"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_diff.png": {
+      "sha": "fedf89ae511c8b134f57069b6f9e4a52202c9a543ca01b3539666e9f49b030e4",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_diff_0.dds": {
+          "sha": "0424ad8fdbd6425245f2cc4cd552dd1c74fe84d252d90bef7410beb72b3ef023"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_diff_1.dds": {
+          "sha": "9c0824e08dd60e418c4dbec73bbb869402048eb924b963b27bf41397fed4be68"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_diff_2.dds": {
+          "sha": "519156cdc52a18179900285217d9a22098ff945b904fa5b1e7b15f2c0aafc933"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_height.png": {
+      "sha": "7672d803ab2020e08ac0e1d44ac426229f938a53dc1aa063089ac686eaf45c96",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_height_0.dds": {
+          "sha": "1222b87c9c5ecb25f32b083e24eb7f2c6553c6d349d2172bb1970550f83ef7e5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_height_1.dds": {
+          "sha": "da7391ff1017337c1fd034fa948a4106f395b3cd28b002ccb2c56ebf4a8dc5d6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_height_2.dds": {
+          "sha": "b76a94c2201a2607b6c1e816ddc3cdd1960393a3e721e4a15c09f3ca1b97a92a"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_norm.png": {
+      "sha": "2740182c35353cca3cff1b3da960084a16046ff4ab6b844f8d2ca55f96c57893",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_norm_0.dds": {
+          "sha": "cdc6c390c3d987246c373a84ceac89bfb78be2d0fd347e3fc79127fea9bf2aa4"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_norm_1.dds": {
+          "sha": "0a769398ba6956937202f24842d0b9b4e37dc4b126d10e2d9c609c86e14f74c9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\maps\\sand_norm_2.dds": {
+          "sha": "b9a06e44cd8febe1ca897cceeb7a3a03e9c25f0ace9b3ede206ebdfe05bc6831"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_diff.png": {
+      "sha": "06536f536046462225c982be9103603b2bfd1a7c45e1c8279159f24caa8317ff",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_diff_0.dds": {
+          "sha": "325c72248d70f89e1bfdfd458e72297c534f972bbeaf017171e78819b737a546"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_diff_1.dds": {
+          "sha": "3fa731725dd93853da1dc1b13e847c4ba25d3cef1f4902eaa46621c259b8ae16"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_diff_2.dds": {
+          "sha": "1a2e4285eec4eee220b2bef86c8ccc5b8948586070268269003c2646678be35c"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_height.png": {
+      "sha": "17e184eb9b350b72f9f079ab8ebd74426e7e421546914f9a6da5e9b52ff153ed",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_height_0.dds": {
+          "sha": "2407f7f09cb47d89b6d2c733667f4fd688a9df6728463924a0a698f2d8638c7c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_height_1.dds": {
+          "sha": "cd04a2b52a0cea6f0690f4694439b01682bd9090a9a1cdb43147fb7b2939ec1b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_height_2.dds": {
+          "sha": "551aa92bdd2817f9f71856f39aa8764dd2f427da6c170a8127beee6fab50a584"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_norm.png": {
+      "sha": "389d580adf4e564037f8759a48a0e646284f6a210ebc60c6cbcad3364262476f",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_norm_0.dds": {
+          "sha": "712d2dccb836583948a479dc7d79be800e7d4b99645596fb7c5411c8e1e7ef1c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_norm_1.dds": {
+          "sha": "24f0ce0079c6b54a4bd48eb9ef037dc13ee0c94eaccbec1c2bc7eea11e9b17b3"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\maps\\snow_v1_norm_2.dds": {
+          "sha": "c3d1b0a202bd37e5c1862e47bc4ee8451f3e320bcfb4617732cac8276543e050"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_diff.png": {
+      "sha": "cbb53ebe7b68813f21cdc17a5bdc769e97d3993aff284a361a3f450ae8edf29e",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_diff_0.dds": {
+          "sha": "f4e572fec6f2d7a3db5209ad72058edfc5b8ccb2aa750d1e458aa9fac3ede9c7"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_diff_1.dds": {
+          "sha": "bd3bff6b32af603354620835d545502f38b3ca0eaa6aede6ad570dbe351c6025"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_diff_2.dds": {
+          "sha": "b1be9ff306f7c1200af03ab0c15fc27ea0942690fc670e2778b9e3dab7318225"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_height.png": {
+      "sha": "bd3576e8839cd8c0873c9987ebdc25f18626d55c2fbcd7efe01c526b032afd80",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_height_0.dds": {
+          "sha": "44cba4abbeca83c1c4de857882710f5ff18e7580144f8a0477c757603cc5cc6c"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_height_1.dds": {
+          "sha": "39d5b9c41baf739981ca9556bd24cf2016acd9c8b71ecc5ce175535b64e9c8b4"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_height_2.dds": {
+          "sha": "e8132d8d3566aa0ca12c7a230cb03e5ac1da77c548ad6ea120cb5ed11b15fec9"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_norm.png": {
+      "sha": "eaef5b6f28b3f96817a4c9a08ec55868b5da96cb7e9eb88e99890a6ee57219bf",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_norm_0.dds": {
+          "sha": "c70681726c84e56acd71d1c05de39c11706239ed317a1e17baf629bf50355820"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_norm_1.dds": {
+          "sha": "c211db900456b69312ba5605a9fb8e94f2ec5bb5a51149af86b3da5e2a1d6244"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\maps\\snow_v2_norm_2.dds": {
+          "sha": "77afecd5ac45da60b426331afd7f3fa31fce0b6a2cbd626ca924fce8fcabc2ad"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_diff.png": {
+      "sha": "7d03335966d42298a2d5a51b2e12498ce915b6bafa4c19214ed300ba79372248",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_diff_0.dds": {
+          "sha": "5352e1b29630780d8d969f37b12ff26230abb9ea8d25acd553e9161341f95666"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_diff_1.dds": {
+          "sha": "0d30c13df355fa5b67c9f7606db478cf5706956a255db3a3ad3fe0e7c358cb3d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_diff_2.dds": {
+          "sha": "a77a5cda1deaad2a9c14dd40c25d97c20c0e66f2bc75a9581215f1799a6a8058"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_norm.png": {
+      "sha": "e1986683f116a3c079419dbe9752dc7571ba298869f05c79e205774533f5526d",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_norm_0.dds": {
+          "sha": "e9b33f4de9a2b62fad2b7b28b575926cfdc4f79dfd0913e821f53c8ff045f962"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_norm_1.dds": {
+          "sha": "e10d6c159690e218663563f9ae91cccd0e837fc8a76d90cf85197d368147d1f3"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\maps\\steppe_norm_2.dds": {
+          "sha": "a15516351f1f0ea5cc7588cd3ecc6013ba819af78e81480245f5a1dddb2f21d2"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_diff.png": {
+      "sha": "b45a7dac36859dcd47df683ecded04aee28222d78720dec22cdc64ac2b9c4259",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_diff_0.dds": {
+          "sha": "1c8a5ca8eba178d48386f7118b2d242671a1d8f207df53c06ff9261978418034"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_diff_1.dds": {
+          "sha": "cb1e9897810276571ec4b797a3d65c681fe288428df8bf0df79cc53b2403c681"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_diff_2.dds": {
+          "sha": "888cb94678d47522b463d560144a96db5fc71c95c3ea6f8309fc87b415c43ae1"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_height.png": {
+      "sha": "1711d757d46c99c3372282d6d9b5e995686e82ba6fd08414026e83ee1a5fd6b2",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_height_0.dds": {
+          "sha": "0038e55bb8d0d1002e289659b7fc7ad0dce522235ee809e363602c3d300b8af1"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_height_1.dds": {
+          "sha": "818304cf863e0b4bd4516dcff3faf0b9395eff4de0f2a9ccdb497b58186bfccb"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_height_2.dds": {
+          "sha": "d45f2014111ba165ddb1b00a22f0250e584bcbaffa3440d75d891ad2ac0a32a5"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_norm.png": {
+      "sha": "5412037906e73b92a83bc03faed5de4bae0cf613b54816640604d0cb34b93e67",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_norm_0.dds": {
+          "sha": "77260b4982d8c92310052cc7c6e6fdbf589fbe6ad34e6410f4e36dd96d50f26e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_norm_1.dds": {
+          "sha": "88ab10ded1b30c389d99bb866c89a797bc08fc9ceea8c4080b29f90067070996"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\maps\\stone_v2_norm_2.dds": {
+          "sha": "76e95859d4377558755648ec4359cb8f0854340a75b3cb0511e556a7f0682864"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_diff.png": {
+      "sha": "7c6f3b64dfedd1b0c528df53f07094d5616f4949584c6ee970af19e43b0e9a55",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_diff_0.dds": {
+          "sha": "fec96fd39d4a0f0e52a5139c5ba49f2e6b56af5c2bf7de613913388f168999b9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_diff_1.dds": {
+          "sha": "5080d2325659fd093cae8cd044a5c81d2293a5f580847c9166091b8bcec49ef4"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_diff_2.dds": {
+          "sha": "328e7a939ebdc1369ad776ae0ad4d108d232146f4548fedbb3e5283c203a6b03"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_height.png": {
+      "sha": "e230c964f3f157f51c6e0f257bca9b8dd2439d8c9c509a5f3006f1825cdbf250",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_height_0.dds": {
+          "sha": "67b43d765a54ddba1b3fd857bf5037d98d25ab9ac25c62315a7cfded0d26b253"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_height_1.dds": {
+          "sha": "92a76386a486cf87d1fa641f4f4cfef3d7badd892736c7fe9f8c75cae867205b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_height_2.dds": {
+          "sha": "39d83c4262635ab1e285f9626bf33c4cb77f3ee905945c3cb670057f22f83f34"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_metal.png": {
+      "sha": "7694ec43548d051c255896de3d712e5f006f79ba3df62d0c6b67b8c2655c2b46",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_metal_0.dds": {
+          "sha": "dbdf90fc90271d3f7438c5ab65974e5805e4954543cfcae79afe33d0a0e1cfa2"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_metal_1.dds": {
+          "sha": "7b6491b0878063f888ea3ddb4a80e42ad2d29dbafa60c6257dffb7063342d04f"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_metal_2.dds": {
+          "sha": "e38ea71f5b56dd559a237cdf4a0f668a8c2ee103ff6f0721f420d2359be0921d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_norm.png": {
+      "sha": "5d63107f85a5585cef70a856021421791ee1b33cb1a9f8d6a778cf856af3c7f0",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_norm_0.dds": {
+          "sha": "f38ea7bdd8654d33fc2f3aced1040bae4d36df4ee2a07e7a5da1270f45f351c6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_norm_1.dds": {
+          "sha": "7c27b0de73ee9f4db840cb78f9a8d2f0d0d500384eb1b029bc26df140dd7fc26"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\maps\\stone_norm_2.dds": {
+          "sha": "76f48586940daaed3059713abf776cb5d5399b6fb24854f7999f28118f62f542"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_diff.png": {
+      "sha": "b13d54e7d26d424786169b2dc306ab12a2dce812da613342cfc07d5c071481c2",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_diff_0.dds": {
+          "sha": "a81054a83154c0153311d5b6ad538b34c0e1b30dfa7371975001e0329febdf5b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_diff_1.dds": {
+          "sha": "a639bf901b275d99ce08b50af6b6a88273fe4ba7d5dd250ce1ab6522d9086016"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_diff_2.dds": {
+          "sha": "8f36161e5e012267a02b57ffd082c41ddde842edab145d1edc13dc5b58e009e7"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_metal.png": {
+      "sha": "6069291f55298dfa49f2827ed6630a9e09acce6085791355991a6683c5b2adac",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_metal_0.dds": {
+          "sha": "34511d3a6d730175f8cabfd436b74fcb975671a8fc6eaf71c51baa854c5c7dc6"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_metal_1.dds": {
+          "sha": "4492f5d8758dcdf41f38e06f65a26af647fe2c8728863c731e21b82c993affad"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_metal_2.dds": {
+          "sha": "2caa2d730885e832e52f8747497aefa7259174c586c8601e189cb2443dd0b498"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_norm.png": {
+      "sha": "d333d5bb8253703b0484c10504a066037a493961319f7290e855f55809dcf5fd",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_norm_0.dds": {
+          "sha": "c363211aabdbed448f501ce9fd106db09e0883b45cd2143a9d0fc03387ea1431"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_norm_1.dds": {
+          "sha": "a9ad432fc53d7153cc8c7a226f2847ffbe0cde662f928f4785a1ca655f02e0d2"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\maps\\street_norm_2.dds": {
+          "sha": "47c69806fdaabb54a8a8bd499ff7a6df4d59a36eb3b2dccde540ad92cf18a0c2"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_diff.png": {
+      "sha": "aa7aa65172bd3ab78bbb88394dbdeabe5c1850819c5c1817b315905918070f3b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_diff_0.dds": {
+          "sha": "d64d75d4246249baf66cf32892e97592388b4bf4a61009af16722a3b6f326525"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_diff_1.dds": {
+          "sha": "562dee56a9191309a2006fcda81e178746a5985b1a418c0fe60f7aeaa1e96383"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_diff_2.dds": {
+          "sha": "991591d72ea154da915fc966ee7ef3d7baa85b341596951842a9394b72cf4c3d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_height.png": {
+      "sha": "801b4f2765dbe16c8e9ae4ee83a6784e8765996270ac4d1b1e9a77e4e74cd1e4",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_height_0.dds": {
+          "sha": "4f3581da677dcdb3d1591d72c068af4be32bd2edbb2a10c96b7b92cf38be6b16"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_height_1.dds": {
+          "sha": "930dc84b474bf7588ae24b56e9adbdcfa988effd1ecadd149ab483bea00b864e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_height_2.dds": {
+          "sha": "1eb04880d51fbbb9a5d6ed5c8e98ef06f426aa87da5dd66fbe6b5bf2a882be8f"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_metal.png": {
+      "sha": "cf5a0b9676154a7c9350ab495f639ba5bc6af0067eba1fc006c3fc6b425db59b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_metal_0.dds": {
+          "sha": "f654070bce8ccb815cc7d3e59af7fd46939a01ffff75da7727b4f13b8a2db628"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_metal_1.dds": {
+          "sha": "a6f92c57b93498e8355514261209a1f65554574637b3782ace83f7ddfed2e0aa"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_metal_2.dds": {
+          "sha": "8339484a35e86169d046d89af7d421bcd7489f2df594936560556465c485231b"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_norm.png": {
+      "sha": "a5029e9d7366f5a2e35f1557316f4efea3e476c0e5d8d4c2f4543b02b3226d76",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_norm_0.dds": {
+          "sha": "7572aa9d5d567c11359ac8dabb8894bb3eaa5f5ce3ca9a90a8eb28d5ef50cb01"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_norm_1.dds": {
+          "sha": "5ca8f9a577389eac9e76476da7b952a75712aa0bee02d41c3c0fe3e577113575"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\maps\\terra_norm_2.dds": {
+          "sha": "860f76abbbf21c35fa122afb46dfea15cd8e89ed08d5a83d663c22948741e36d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_diff.png": {
+      "sha": "7bd3b1779a6d0fd560c9067748376d054196dcb75561ed0a2525d83057b60f3c",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_diff_0.dds": {
+          "sha": "0f359a0e9d3048edebb2c4547898e821e9be1ba980c3006412ede3f0a371598d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_diff_1.dds": {
+          "sha": "31914afec4ba2bd514e5ae75fd861170891bbb10f8d01ac7c4ba62376382fb3e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_diff_2.dds": {
+          "sha": "f08192c44594a7ff5f0a3af515398275397f914f8e8aaa65c4022532ac8b181b"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_metal.png": {
+      "sha": "346a048ad57c60bb3e6f86a1904d58eb42c302946090f0f1edb57d3fe21278ca",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_metal_0.dds": {
+          "sha": "633913d2d1f55be70b59065ed6a6cc7f76719a8d308feae9534066b3658b4477"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_metal_1.dds": {
+          "sha": "ee53ff5d30dfe37cd20ed9ec65694082869de574f44ddfab826233d472adc4bb"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_metal_2.dds": {
+          "sha": "207d0004fe6f8578a218c4f01233feb2c71b26c6702e16fc6a8d3a9e9c741ffb"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_norm.png": {
+      "sha": "f41fb1bd96a3b698b0c7ac5f2074861be39f3245f1a15941d045794dc22ace28",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_norm_0.dds": {
+          "sha": "915dc6bec005b5840e51284549ddcb9371c354a0d39d87f1792213a25070372d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_norm_1.dds": {
+          "sha": "c83e471cc5ce248f0b89d631366640619e769774487a6cd0b620407e13f74a4e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\maps\\traditional_norm_2.dds": {
+          "sha": "7156c4e48df9f01535e22d174feff131454cbc13261df952d6322ee5e621869d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\icon_beach.png": {
+      "sha": "4d02d81a8fe52d71b1aa6e7180bc105f44519019a247ff5b6c64886f5338bfe6",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\icon_beach_0.dds": {
+          "sha": "754eb02f3f9ade395fc5fb2013048bd7c8a537298147ea2708006c7771f08040"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\icon_beach_1.dds": {
+          "sha": "754eb02f3f9ade395fc5fb2013048bd7c8a537298147ea2708006c7771f08040"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beach\\icon_beach_2.dds": {
+          "sha": "754eb02f3f9ade395fc5fb2013048bd7c8a537298147ea2708006c7771f08040"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\icon_beton.png": {
+      "sha": "0b50cb02e76c143ab040ca9ec9f7e3d489d4799c31e08f0479eb400ccc1ccd7b",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\icon_beton_0.dds": {
+          "sha": "a40648e2504e0010b90107ff90a3f3afdfc4434246206c8e95e22993416ae783"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\icon_beton_1.dds": {
+          "sha": "a40648e2504e0010b90107ff90a3f3afdfc4434246206c8e95e22993416ae783"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\beton\\icon_beton_2.dds": {
+          "sha": "a40648e2504e0010b90107ff90a3f3afdfc4434246206c8e95e22993416ae783"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\icon_cobble.png": {
+      "sha": "c4179ff80276f7d2cc8a0520e55c4acd4996cb689a75082f232a5772eb3df1cd",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\icon_cobble_0.dds": {
+          "sha": "5895750a51a481dbd17cd6f09797adf0d31742a99178b371b613c37f1f189ab0"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\icon_cobble_1.dds": {
+          "sha": "5895750a51a481dbd17cd6f09797adf0d31742a99178b371b613c37f1f189ab0"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\cobble\\icon_cobble_2.dds": {
+          "sha": "5895750a51a481dbd17cd6f09797adf0d31742a99178b371b613c37f1f189ab0"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\icon_dirt.png": {
+      "sha": "12b01f1102a9836ba9941048a45497074291541d315f7334e1da4b01eceee3a8",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\icon_dirt_0.dds": {
+          "sha": "d8cfc197e378c3cf381bccc3dae16c8a088d23a3768f49cdf1f7babdd2ec2df1"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\icon_dirt_1.dds": {
+          "sha": "d8cfc197e378c3cf381bccc3dae16c8a088d23a3768f49cdf1f7babdd2ec2df1"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\dirt\\icon_dirt_2.dds": {
+          "sha": "d8cfc197e378c3cf381bccc3dae16c8a088d23a3768f49cdf1f7babdd2ec2df1"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\icon_grass.png": {
+      "sha": "69a5f25234e98041cf6d2cbecc0867aae473b2f74d6e73585ab43611d67297a7",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\icon_grass_0.dds": {
+          "sha": "9ca95f842dc72c72ce15a9e273bafbbdf2bd6143a7c6e54531871271caed789e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\icon_grass_1.dds": {
+          "sha": "9ca95f842dc72c72ce15a9e273bafbbdf2bd6143a7c6e54531871271caed789e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grass\\icon_grass_2.dds": {
+          "sha": "9ca95f842dc72c72ce15a9e273bafbbdf2bd6143a7c6e54531871271caed789e"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\icon_grave.png": {
+      "sha": "67db239321b3a61c5c0d84bf39f9e75a9551cef88920fab21de83fc3bedec103",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\icon_grave_0.dds": {
+          "sha": "4e869d6a9cfb0933961a7da9c5842b4c15e9cb868c64795e1ee952be3f7c21d9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\icon_grave_1.dds": {
+          "sha": "4e869d6a9cfb0933961a7da9c5842b4c15e9cb868c64795e1ee952be3f7c21d9"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\grave\\icon_grave_2.dds": {
+          "sha": "4e869d6a9cfb0933961a7da9c5842b4c15e9cb868c64795e1ee952be3f7c21d9"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\icon_hacienda.png": {
+      "sha": "b693afb606de6f830825a3ae4f4e890b9ac9a8503f88cb164453d0d7dadc3cbb",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\icon_hacienda_0.dds": {
+          "sha": "7c3fbdc05b9730d12f69f0ce8c18f6e8ffc689c978593a03acd2c3fe5801e9bf"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\icon_hacienda_1.dds": {
+          "sha": "7c3fbdc05b9730d12f69f0ce8c18f6e8ffc689c978593a03acd2c3fe5801e9bf"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\hacienda\\icon_hacienda_2.dds": {
+          "sha": "7c3fbdc05b9730d12f69f0ce8c18f6e8ffc689c978593a03acd2c3fe5801e9bf"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\icon_ice.png": {
+      "sha": "74aabd333fbca696e90abcb0879b686204bb53ae55a59436c6f324b3973df127",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\icon_ice_0.dds": {
+          "sha": "dfab18af0ce8348e8c357cd1354f4f7c319cd113dec54151eb7690627ed36751"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\icon_ice_1.dds": {
+          "sha": "dfab18af0ce8348e8c357cd1354f4f7c319cd113dec54151eb7690627ed36751"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\ice\\icon_ice_2.dds": {
+          "sha": "dfab18af0ce8348e8c357cd1354f4f7c319cd113dec54151eb7690627ed36751"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\icon_industrial.png": {
+      "sha": "6f24ee45c18563dbcb96926d7e14b31c4fae75b70fc9711ff38f07eec76cfd32",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\icon_industrial_0.dds": {
+          "sha": "15c51f5100e6e7faff245d34676c64649821067842acd532b3d5fae8f4646ebe"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\icon_industrial_1.dds": {
+          "sha": "15c51f5100e6e7faff245d34676c64649821067842acd532b3d5fae8f4646ebe"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\industrial\\icon_industrial_2.dds": {
+          "sha": "15c51f5100e6e7faff245d34676c64649821067842acd532b3d5fae8f4646ebe"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\icon_stone.png": {
+      "sha": "9adaaaf80573eee107184ee0d23b3138c787e5bc2c24e4389a000d9bb65fffc9",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\icon_stone_0.dds": {
+          "sha": "460cc620f286566684f8c9b8326f37f34598c82d08be9c9ea07634097da60394"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\icon_stone_1.dds": {
+          "sha": "460cc620f286566684f8c9b8326f37f34598c82d08be9c9ea07634097da60394"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\jakob\\industry\\icon_stone_2.dds": {
+          "sha": "460cc620f286566684f8c9b8326f37f34598c82d08be9c9ea07634097da60394"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\icon_marmor.png": {
+      "sha": "b32e878d7769725a29c891ad88f453e0943cb8dd5e9e350490acb1c74ee92fc5",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\icon_marmor_0.dds": {
+          "sha": "53102667f376b6334e25516127074f2953f1f3d4f37f352eb405c891999d7d59"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\icon_marmor_1.dds": {
+          "sha": "53102667f376b6334e25516127074f2953f1f3d4f37f352eb405c891999d7d59"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\marmor\\icon_marmor_2.dds": {
+          "sha": "53102667f376b6334e25516127074f2953f1f3d4f37f352eb405c891999d7d59"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\icon_mosaic.png": {
+      "sha": "83a3fd8a1de19a05816c0976ec4810cb1a69285dc647351bb57d568a35de9c8e",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\icon_mosaic_0.dds": {
+          "sha": "5903b3b46cfb5bd64244967d38f34e9381463c8660c737fd546820113fcd6f54"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\icon_mosaic_1.dds": {
+          "sha": "5903b3b46cfb5bd64244967d38f34e9381463c8660c737fd546820113fcd6f54"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\mosaic\\icon_mosaic_2.dds": {
+          "sha": "5903b3b46cfb5bd64244967d38f34e9381463c8660c737fd546820113fcd6f54"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\icon_noground.png": {
+      "sha": "47dcb353624bdd856bf27b3af2bb444b59196364609eec616a2b1eaed54ca91f",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\icon_noground_0.dds": {
+          "sha": "b0d92d0f97a8dfa0a9943ebaa59ed3a25eefc4177949bc6baf8739c93feea682"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\icon_noground_1.dds": {
+          "sha": "b0d92d0f97a8dfa0a9943ebaa59ed3a25eefc4177949bc6baf8739c93feea682"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\noground\\icon_noground_2.dds": {
+          "sha": "b0d92d0f97a8dfa0a9943ebaa59ed3a25eefc4177949bc6baf8739c93feea682"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\icon_plaza.png": {
+      "sha": "e01fc137aa352032c75207773fca9b6dcc7e7b27aa096bf5a87ba1597473b3ea",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\icon_plaza_0.dds": {
+          "sha": "18021250b8996c857a34d732470ad13f569f55dd6c7c86cc18e5682b4cf8ceae"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\icon_plaza_1.dds": {
+          "sha": "18021250b8996c857a34d732470ad13f569f55dd6c7c86cc18e5682b4cf8ceae"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\plaza\\icon_plaza_2.dds": {
+          "sha": "18021250b8996c857a34d732470ad13f569f55dd6c7c86cc18e5682b4cf8ceae"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\icon_sand.png": {
+      "sha": "1a95e1d845424bb45eac1e3fcb4f228ed4fb2f3bb453f5462e249f2590980d9a",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\icon_sand_0.dds": {
+          "sha": "e9f83ac5b4cf3d42cf98711a5bdd5915209ee2a82ab5160946b72035a6b2883d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\icon_sand_1.dds": {
+          "sha": "e9f83ac5b4cf3d42cf98711a5bdd5915209ee2a82ab5160946b72035a6b2883d"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\sand\\icon_sand_2.dds": {
+          "sha": "e9f83ac5b4cf3d42cf98711a5bdd5915209ee2a82ab5160946b72035a6b2883d"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\icon_snow_v1.png": {
+      "sha": "2ab2d1224611777dd0dca139dbe9176c9351a6273b4ded71a2d6b1b81b7ccebd",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\icon_snow_v1_0.dds": {
+          "sha": "10cd9218e570d2e7fbf420e90b719112d1bb733bc7f8bb83b75be4b604ec6450"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\icon_snow_v1_1.dds": {
+          "sha": "10cd9218e570d2e7fbf420e90b719112d1bb733bc7f8bb83b75be4b604ec6450"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v1\\icon_snow_v1_2.dds": {
+          "sha": "10cd9218e570d2e7fbf420e90b719112d1bb733bc7f8bb83b75be4b604ec6450"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\icon_snow_v2.png": {
+      "sha": "8adcc509711f503e7825e781244eb3c3df47c771fe15cef6ce6ac9678ff5615e",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\icon_snow_v2_0.dds": {
+          "sha": "d0afc688a67a2f1252b19723fafe33d81f60c7fb349404337ea5ad0f6446bc5b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\icon_snow_v2_1.dds": {
+          "sha": "d0afc688a67a2f1252b19723fafe33d81f60c7fb349404337ea5ad0f6446bc5b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\snow_v2\\icon_snow_v2_2.dds": {
+          "sha": "d0afc688a67a2f1252b19723fafe33d81f60c7fb349404337ea5ad0f6446bc5b"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\icon_steppe.png": {
+      "sha": "e334b8e64953fad400a75128eb62ee4bb9181c6af6e52ae72edfcfa6c8f4d949",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\icon_steppe_0.dds": {
+          "sha": "f451364d5ca97e33e173f856cf81df35813098ee9dbd9c178bcdb2ecce149919"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\icon_steppe_1.dds": {
+          "sha": "f451364d5ca97e33e173f856cf81df35813098ee9dbd9c178bcdb2ecce149919"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\steppe\\icon_steppe_2.dds": {
+          "sha": "f451364d5ca97e33e173f856cf81df35813098ee9dbd9c178bcdb2ecce149919"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\icon_stone_v2.png": {
+      "sha": "4c44b623537b99b107c438a7e51c54506c347b9f67b401e859951f8fdada031f",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\icon_stone_v2_0.dds": {
+          "sha": "0d23fb34654324f293fd763a0468fb693467384498bc0f26f188aee9476ef80b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\icon_stone_v2_1.dds": {
+          "sha": "0d23fb34654324f293fd763a0468fb693467384498bc0f26f188aee9476ef80b"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone_v2\\icon_stone_v2_2.dds": {
+          "sha": "0d23fb34654324f293fd763a0468fb693467384498bc0f26f188aee9476ef80b"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\icon_stone.png": {
+      "sha": "f1974ac9cc9c30562b502923976f988106410c0fff06c808a7bd19861af634c8",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\icon_stone_0.dds": {
+          "sha": "b359a2819086e9d0f7a997af68a8fc353733c40def151fdcd75075a8b44cc807"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\icon_stone_1.dds": {
+          "sha": "b359a2819086e9d0f7a997af68a8fc353733c40def151fdcd75075a8b44cc807"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\stone\\icon_stone_2.dds": {
+          "sha": "b359a2819086e9d0f7a997af68a8fc353733c40def151fdcd75075a8b44cc807"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\icon_street.png": {
+      "sha": "3900a681ebb476a716b1d84a05c13cd767ecbd585fb36ee6cd55c946ca451cb2",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\icon_street_0.dds": {
+          "sha": "0b5d6a3e49abef33cb70c7fd1d0d9876b4ec59bb415472eebc63f5d65556a836"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\icon_street_1.dds": {
+          "sha": "0b5d6a3e49abef33cb70c7fd1d0d9876b4ec59bb415472eebc63f5d65556a836"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\street\\icon_street_2.dds": {
+          "sha": "0b5d6a3e49abef33cb70c7fd1d0d9876b4ec59bb415472eebc63f5d65556a836"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\icon_terra.png": {
+      "sha": "c74a67879b41cacb321db098a89c0485f0a6385db9b84ecac1fc46cf5f2b7ac7",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\icon_terra_0.dds": {
+          "sha": "d335ad3ae6d52b9c4d29e0b7d5358e28c2316717d2302b43e3fa7a76c90d5f21"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\icon_terra_1.dds": {
+          "sha": "d335ad3ae6d52b9c4d29e0b7d5358e28c2316717d2302b43e3fa7a76c90d5f21"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\terra\\icon_terra_2.dds": {
+          "sha": "d335ad3ae6d52b9c4d29e0b7d5358e28c2316717d2302b43e3fa7a76c90d5f21"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\icon_traditional.png": {
+      "sha": "358f514f77054e083bde683f3324dbb654f5c55b4a0884cff78c8b89b34279a5",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\icon_traditional_0.dds": {
+          "sha": "fc6b66218865805106f4553db3a27238a250d1854fa97001eb86ecb45e10473e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\icon_traditional_1.dds": {
+          "sha": "fc6b66218865805106f4553db3a27238a250d1854fa97001eb86ecb45e10473e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Small Warehouse\\data\\mmx\\decals\\traditional\\icon_traditional_2.dds": {
+          "sha": "fc6b66218865805106f4553db3a27238a250d1854fa97001eb86ecb45e10473e"
+        }
+      }
+    }
+  }
+}

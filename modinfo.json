@@ -1,0 +1,67 @@
+{
+  "Version": "1.0",
+  "ModID": "mmx_small_warehouse",
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "shared_ui_change_kurila"
+  ],
+  "LoadAfterIds": [],
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "Small Warehouse",
+    "English": "Small Warehouse",
+    "French": "Small Warehouse",
+    "German": "Small Warehouse",
+    "Italian": "Small Warehouse",
+    "Japanese": "Small Warehouse",
+    "Korean": "Small Warehouse",
+    "Polish": "Small Warehouse",
+    "Russian": "Small Warehouse",
+    "Spanish": "Small Warehouse",
+    "Taiwanese": "Small Warehouse"
+  },
+  "Description": {
+    "Chinese": "Small Warehouse",
+    "English": "Small Warehouse",
+    "French": "Small Warehouse",
+    "German": "Small Warehouse",
+    "Italian": "Small Warehouse",
+    "Japanese": "Small Warehouse",
+    "Korean": "Small Warehouse",
+    "Polish": "Small Warehouse",
+    "Russian": "Small Warehouse",
+    "Spanish": "Small Warehouse",
+    "Taiwanese": "Small Warehouse"
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [],
+  "CreatorName": "Mensmaximus",
+  "CreatorContact": null,
+  "Image": null
+}

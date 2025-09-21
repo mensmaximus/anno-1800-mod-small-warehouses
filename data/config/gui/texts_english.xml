@@ -1,0 +1,302 @@
+<ModOps>
+
+	<ModOp Type="add" Path="/TextExport/Texts">
+
+		<Text>
+			<GUID>1337477100</GUID>
+			<Text>Small Warehouse 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477101</GUID>
+			<Text>Small Warehouse 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477102</GUID>
+			<Text>Small Warehouse 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477103</GUID>
+			<Text>Small Warehouse 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477104</GUID>
+			<Text>Small Warehouse Harbour</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477105</GUID>
+			<Text>Small Warehouse 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477106</GUID>
+			<Text>Small Warehouse 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477107</GUID>
+			<Text>Small Warehouse 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477108</GUID>
+			<Text>Small Warehouse 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477109</GUID>
+			<Text>Small Warehouse Harbour</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477110</GUID>
+			<Text>Small Warehouse 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477111</GUID>
+			<Text>Small Warehouse 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477112</GUID>
+			<Text>Small Warehouse 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477113</GUID>
+			<Text>Small Warehouse 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477114</GUID>
+			<Text>Small Warehouse Harbour</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477115</GUID>
+			<Text>Small Warehouse 4x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477116</GUID>
+			<Text>Small Warehouse 6x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477117</GUID>
+			<Text>Small Warehouse 8x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477118</GUID>
+			<Text>Small Warehouse 10x</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477119</GUID>
+			<Text>Small Warehouse Harbour</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477130</GUID>
+			<Text>Small Warehouses</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477131</GUID>
+			<Text>Small Warehouses</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477132</GUID>
+			<Text>Small Warehouses</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477133</GUID>
+			<Text>Small Warehouses</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477134</GUID>
+			<Text>Small Warehouses</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477170</GUID>
+			<Text>Industrial</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477171</GUID>
+			<Text>Industrial</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477172</GUID>
+			<Text>Industrial</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477173</GUID>
+			<Text>Industrial</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477175</GUID>
+			<Text>Yellow Walls</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477176</GUID>
+			<Text>Yellow Walls</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477177</GUID>
+			<Text>Yellow Walls</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477178</GUID>
+			<Text>Yellow Walls</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477180</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477181</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477182</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477183</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477185</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477186</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477187</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477188</GUID>
+			<Text>Reet roof</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477190</GUID>
+			<Text>Tower</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477191</GUID>
+			<Text>Tower</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477192</GUID>
+			<Text>Tower</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477193</GUID>
+			<Text>Tower</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477200</GUID>
+			<Text>Small Warehouses Old World</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477201</GUID>
+			<Text>Small Warehouses New World</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477202</GUID>
+			<Text>Small Warehouses Africa</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477203</GUID>
+			<Text>Small Warehouses Arctic</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477205</GUID>
+			<Text>All Small Warehouses</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477210</GUID>
+			<Text>Accepts and distributes goods from and to your production buildings.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477211</GUID>
+			<Text>Small Warehouse with 4 Ramps.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477212</GUID>
+			<Text>Small Warehouse with 6 Ramps.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477213</GUID>
+			<Text>Small Warehouse with 8 Ramps.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477214</GUID>
+			<Text>Small Harbour Warehouse with 6 Ramps.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477215</GUID>
+			<Text>Small Warehouse with a crane.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477216</GUID>
+			<Text>Small Warehouse with yellow walls.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477217</GUID>
+			<Text>Small Warehouse with a reet roof.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477218</GUID>
+			<Text>Small Warehouse with wooden roof.</Text>
+		</Text>
+
+	</ModOp>
+
+</ModOps>

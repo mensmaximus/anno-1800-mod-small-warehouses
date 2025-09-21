@@ -1,0 +1,254 @@
+<ModOps>
+
+	<ModOp Type="addNextSibling" GUID="25000190">
+		<Asset>
+			<Template>ConstructionCategory</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477130</GUID>
+					<Name>Small Warehouse Construction Menu Old World</Name>
+					<IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+				</Standard>
+				<ConstructionCategory>
+					<BuildingList>
+						<Item>
+							<Building>1337477100</Building>
+						</Item>
+						<Item>
+							<Building>1337477101</Building>
+						</Item>
+						<Item>
+							<Building>1337477102</Building>
+						</Item>
+						<Item>
+							<Building>1337477103</Building>
+						</Item>
+						<Item>
+							<Building>1337477104</Building>
+						</Item>
+					</BuildingList>
+					<CategoryDescription>1337477210</CategoryDescription>
+				</ConstructionCategory>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Small Warehouses Old World</Text>
+							<Status>Exported</Status>
+						</English>
+					</LocaText>
+				</Text>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Add Tiny Warehouse to OW ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='25000189,500092'
+		Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010371']">
+		<Item>
+			<Building>1337477130</Building>
+		</Item>
+	</ModOp>
+
+	<ModOp Type="addNextSibling" GUID="25000190">
+		<Asset>
+			<Template>ConstructionCategory</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477131</GUID>
+					<Name>Small Warehouse Construction Menu New World</Name>
+					<IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+				</Standard>
+				<ConstructionCategory>
+					<BuildingList>
+						<Item>
+							<Building>1337477105</Building>
+						</Item>
+						<Item>
+							<Building>1337477106</Building>
+						</Item>
+						<Item>
+							<Building>1337477107</Building>
+						</Item>
+						<Item>
+							<Building>1337477108</Building>
+						</Item>
+						<Item>
+							<Building>1337477109</Building>
+						</Item>
+					</BuildingList>
+					<CategoryDescription>1337477210</CategoryDescription>
+				</ConstructionCategory>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Small Warehouses New World</Text>
+							<Status>Exported</Status>
+						</English>
+					</LocaText>
+				</Text>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Add Tiny Warehouse to NW ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='25000193,500137'
+		Path="/Values/ConstructionCategory/BuildingList/Item[Building='101323']">
+		<Item>
+			<Building>1337477131</Building>
+		</Item>
+	</ModOp>
+
+	<ModOp Type="addNextSibling" GUID="25000190">
+		<Asset>
+			<Template>ConstructionCategory</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477132</GUID>
+					<Name>Small Warehouse Construction Menu Africa</Name>
+					<IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+				</Standard>
+				<ConstructionCategory>
+					<BuildingList>
+						<Item>
+							<Building>1337477110</Building>
+						</Item>
+						<Item>
+							<Building>1337477111</Building>
+						</Item>
+						<Item>
+							<Building>1337477112</Building>
+						</Item>
+						<Item>
+							<Building>1337477113</Building>
+						</Item>
+						<Item>
+							<Building>1337477114</Building>
+						</Item>
+					</BuildingList>
+					<CategoryDescription>1337477210</CategoryDescription>
+				</ConstructionCategory>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Small Warehouses Afrika</Text>
+							<Status>Exported</Status>
+						</English>
+					</LocaText>
+				</Text>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Add Tiny Warehouse to Africa ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='114553,119012'
+		Path="/Values/ConstructionCategory/BuildingList/Item[Building='114509']">
+		<Item>
+			<Building>1337477132</Building>
+		</Item>
+	</ModOp>
+
+	<ModOp Type="addNextSibling" GUID="25000190">
+		<Asset>
+			<Template>ConstructionCategory</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477133</GUID>
+					<Name>Small Warehouse Construction Menu Arctic</Name>
+					<IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+				</Standard>
+				<ConstructionCategory>
+					<BuildingList>
+						<Item>
+							<Building>1337477115</Building>
+						</Item>
+						<Item>
+							<Building>1337477116</Building>
+						</Item>
+						<Item>
+							<Building>1337477117</Building>
+						</Item>
+						<Item>
+							<Building>1337477118</Building>
+						</Item>
+						<Item>
+							<Building>1337477119</Building>
+						</Item>
+					</BuildingList>
+					<CategoryDescription>1337477210</CategoryDescription>
+				</ConstructionCategory>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Small Warehouses Arctic</Text>
+							<Status>Exported</Status>
+						</English>
+					</LocaText>
+				</Text>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Add Stealth Slotbudilding to Arctic ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='112790,116343'
+		Path="Values/ConstructionCategory/BuildingList/Item[Building='112656']">
+		<Item>
+			<Building>1337477133</Building>
+		</Item>
+	</ModOp>
+
+	<ModOp Type="addNextSibling" GUID="25000190" Condition="#NewHorizons">
+		<Asset>
+			<Template>ConstructionCategory</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477134</GUID>
+					<Name>Small Warehouse Construction Menu Asia</Name>
+					<IconFilename>data/mmx/buildings/warehouse/icons/menu_small_warehouse.png</IconFilename>
+				</Standard>
+				<ConstructionCategory>
+					<BuildingList>
+						<Item>
+							<Building>1337477120</Building>
+						</Item>
+						<Item>
+							<Building>1337477121</Building>
+						</Item>
+						<Item>
+							<Building>1337477122</Building>
+						</Item>
+						<Item>
+							<Building>1337477123</Building>
+						</Item>
+						<Item>
+							<Building>1337477124</Building>
+						</Item>
+					</BuildingList>
+					<CategoryDescription>1337477210</CategoryDescription>
+				</ConstructionCategory>
+				<Text>
+					<LocaText>
+						<English>
+							<Text>Small Warehouses Asia</Text>
+							<Status>Exported</Status>
+						</English>
+					</LocaText>
+				</Text>
+				<Locked />
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<!-- Add Tiny Warehouse to New Horizons -->
+	<ModOp Type="addNextSibling" GUID='1445602,1445608'
+		Path="/Values/ConstructionCategory/BuildingList/Item[Building='1446002']"
+		Condition="#NewHorizons">
+		<Item>
+			<Building>1337477134</Building>
+		</Item>
+	</ModOp>
+
+</ModOps>

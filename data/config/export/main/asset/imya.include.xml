@@ -1,0 +1,14 @@
+<ModOps>
+  <ImyaTweaks Title="Switch on or off special features" />
+  <Group ModOpID="heater_active">
+    <ModOp Type="add" GUID="1337477115,1337477116,1337477117,1337477118" Path="/Values">
+      <HeatProvider>
+        <MinProductivityPercentToProvideHeat>-1</MinProductivityPercentToProvideHeat>
+        <ProvidesHeat>1</ProvidesHeat>
+        <HeatRange>1</HeatRange>
+      </HeatProvider>
+    </ModOp>
+  </Group>
+  <ImyaExpose Path="*" ModOpID="heater_active" ExposeID="Enable heating feature in the arctic" Description="If enabled small warehouses provide heat within a range of 1 tile" Kind="SkipToggle" InitState="True">
+  </ImyaExpose>
+</ModOps>

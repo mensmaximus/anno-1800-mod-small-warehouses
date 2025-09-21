@@ -1,0 +1,10 @@
+<ModOps>
+  <ModOp Type="replace" Path="//Values/Blocking[GroundDecalAsset='2077023021']/GroundDecalAsset"
+         Condition="//Values/Blocking[GroundDecalAsset='2077023021']">
+    <GroundDecalAsset>1500303278</GroundDecalAsset>
+  </ModOp>
+  <ModOp Type="replace" Path="//Values/Blocking[GroundDecalInvisible='2077023022']/GroundDecalInvisible"
+         Condition="//Values/Blocking[GroundDecalInvisible='2077023022']">
+    <GroundDecalAsset>1500303279</GroundDecalAsset>
+  </ModOp>
+</ModOps>
