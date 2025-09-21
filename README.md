@@ -2,11 +2,13 @@
 
 ## Contribution and credits
 
-Big thanks go to @hier0nimus,  @kurila, @serp,  @juern,  @taubenangriff,  @taludas and all the other nice people from the Anno Mod-Corner International Discord for their patients and valuable input on all aspects of creating a mod.
+Big thanks go to @hier0nimus, @kurila, @serp,  @juern,  @taubenangriff,  @taludas and all the other nice people from the Anno Mod-Corner International Discord for their patients and valuable input on all aspects of creating a mod.
 
 Special thanks go to @kurila and @jimdiGriz77 for allowing me to use their mods as submods
 -	shared_ui_change_kurila
 -	JDG_06_quay_system_fc_2
+
+Many thanks to @jakob for providing a more fine granular cobble texture to fit his city variations mod.
 
 ## About this mod
 
@@ -34,7 +36,7 @@ Risk reduction radius: 5 tiles
 
 Special: 
 - Upgradable to small warehouse 1x2
-- Can delivery heat in Arctic in a radius of 1 tile
+- Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 1x2
 Availability:
@@ -56,7 +58,7 @@ Fire, explosion, riot risk: -3
 Risk reduction radius: 10 tiles
 
 Special: 
-- Can delivery heat in Arctic in a radius of 1 tile
+- Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 2x2
 Availability:
@@ -79,7 +81,7 @@ Fire, explosion, riot risk: -6
 Risk reduction radius: 10 tiles
 
 Special: 
-- Can delivery heat in Arctic in a radius of 1 tile
+- Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 3x3
 Availability:
@@ -103,7 +105,7 @@ Fire, explosion, riot risk: -10
 Risk reduction radius: 15 tiles
 
 Special: 
-- Can delivery heat in Arctic in a radius of 1 tile
+- Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### Harbour
 Availability:
@@ -133,3 +135,5 @@ Landbased Small Warehouses provide the following ground plates for each skin (3x
 - NW: no ground, beach, beton, cobble, grass, grave stone, hacienda, stone, mosaic, plaza, sand, street stone, terracota, traditional terracota
 - Africa: no ground, africa grass, dirt, street stone, stone, sand, beton
 - Arctic: no ground, snow, snow plates, ice
+
+Ground decals can be changed by either pressing CRTL+V while a Smnall Warehouse is selcted or by chaning the GUI (cudos to @kurila) with SHIFT+C and switching thru the ground variations
