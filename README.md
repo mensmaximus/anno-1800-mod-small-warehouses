@@ -70,6 +70,7 @@ Costs:
 - 50 bricks (mud bricks for Africa)
 - 20 steal beams
 
+Skins: 2  
 Maintenance: 50 coins  
 Loading ramps: 8  
 Storage: +15  
@@ -121,3 +122,13 @@ Loading ramps: 6
 Storage: +20  
 Fire, explosion, riot risk: -6  
 Risk reduction radius: 10 tiles
+
+## Ground plates
+
+Harbour Small Warehouses are built on the region specific quay system.
+
+Landbased Small Warehouses provide the following ground plates for each skin
+- OW: no ground, beach, beton, cobble, grass, grave stone, industrial, stone, marmor, mosaic, plaza, sand, street stone
+- NW: no ground, beach, beton, cobble, grass, grave stone, hacienda, stone, mosaic, plaza, sand, street stone, terracota, traditional terracota
+- Africa: no ground, africa grass, dirt, street stone, stone, sand, beton
+- Arctic: no ground, snow, snow plates, ice
