@@ -101,3 +101,19 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile
 
 ### Harbour
+Availability:
+- OW 1 worker
+- NW 1 jornalero
+- Africa 1 elder
+- Arctic 1 explorer
+
+Costs:
+- 50 coins
+- 50 timber (wanza timber for Africa)
+- 20 bricks (mud bricks for Africa)
+
+Maintenance: 40 coins  
+Loading ramps: 6  
+Storage: +20  
+Fire, explosion, riot risk: -6  
+Risk reduction radius: 10 tiles
