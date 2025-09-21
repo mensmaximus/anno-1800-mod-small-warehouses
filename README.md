@@ -27,9 +27,9 @@ Costs:
 - 250 coins
 - 10 timber (wanza timber for Africa)
 
-Skins: 2  
-![OW](/data/mmx/buildings/warehouse/icons/ow_1x2_simple.png)
-![OW yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_simple_yellow.png)  
+Skins: 2 (regional modifications to colors and props apply)  
+![1x2 Simplw](/data/mmx/buildings/warehouse/icons/ow_1x2_simple.png)
+![1x2 yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_simple_yellow.png)  
 Maintenance: 20 coins  
 Loading ramps: 4  
 Storage: +5  
@@ -52,9 +52,9 @@ Costs:
 - 30 timber (wanza timber for Africa)
 - 20 bricks (mud bricks for Africa)
 
-Skins: 2  
-![OW](/data/mmx/buildings/warehouse/icons/ow_1x2.png)
-![OW yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_crane.png)  
+Skins: 2 (regional modifications to colors and props apply)  
+![1x2](/data/mmx/buildings/warehouse/icons/ow_1x2.png)
+![1x2 Industrial](/data/mmx/buildings/warehouse/icons/ow_1x2_crane.png)  
 Maintenance: 30 coins  
 Loading ramps: 6  
 Storage: +10  
@@ -77,7 +77,9 @@ Costs:
 - 50 bricks (mud bricks for Africa)
 - 20 steal beams
 
-Skins: 2  
+Skins: 2 (regional modifications to colors and props apply)  
+![2x2 Wood](/data/mmx/buildings/warehouse/icons/ow_2x2_wood.png)
+![2x2 Reet](/data/mmx/buildings/warehouse/icons/ow_2x2_reet.png)  
 Maintenance: 50 coins  
 Loading ramps: 8  
 Storage: +15  
@@ -101,7 +103,7 @@ Costs:
 - 40 steal beams
 - 20 windows
 
-Skins: 3  
+Skins: 3 (regional modifications to colors and props apply)  
 Maintenance: 70 coins  
 Loading ramps: 10  
 Storage: +20  
