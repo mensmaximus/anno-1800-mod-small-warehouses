@@ -131,13 +131,13 @@ Risk reduction radius: 10 tiles
 Harbour Small Warehouses are built on the region specific quay system.
 
 Landbased Small Warehouses provide the following ground plates for each skin (3x3 variation under development)
-- OW: no ground, grass, sand, street stone, cobble (jakob), cobble, industrial, beton, plaza, grave stone, marmor, mosaic, beach
+- OW: no ground, grass, sand, street stone, cobble (jakob), cobble, industrial, beton, plaza, grave stone, marmor, mosaic, beach  
   ![OW decals](/data/mmx/buildings/warehouse/icons/decals_ow.png)
-- NW: no ground, grass, sand, street stone, cobble (jakob), cobble, beton, hacienda, terracote, traditional, plaza, grave stone, mosaic, beach
+- NW: no ground, grass, sand, street stone, cobble (jakob), cobble, beton, hacienda, terracote, traditional, plaza, grave stone, mosaic, beach  
   ![NW decals](/data/mmx/buildings/warehouse/icons/decals_nw.png)
-- Africa: no ground, africa grass, stone, sand, dirt, street stone, beton
+- Africa: no ground, africa grass, stone, sand, dirt, street stone, beton  
   ![Africa decals](/data/mmx/buildings/warehouse/icons/decals_africa.png)
-- Arctic: no ground, snow, snow plates, ice
+- Arctic: no ground, snow, snow plates, ice  
   ![Arctic decals](/data/mmx/buildings/warehouse/icons/decals_arctic.png)
 
 **Ground decals can be changed by either pressing CRTL+V while a Smnall Warehouse is selcted or by chaning the GUI (cudos to @kurila) with SHIFT+C and switching through the ground variations. Harbour variations are changed by pressing CRTL+V.**
