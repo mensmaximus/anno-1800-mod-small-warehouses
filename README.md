@@ -121,6 +121,8 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### Harbour
+Variations: 4  
+
 Availability:
 - OW 1 worker
 - NW 1 jornalero
@@ -132,7 +134,6 @@ Costs:
 - 50 timber (wanza timber for Africa)
 - 20 bricks (mud bricks for Africa)
 
-Variations: 4  
 Maintenance: 40 coins  
 Loading ramps: 6  
 Storage: +20  
