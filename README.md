@@ -93,6 +93,11 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 3x3
+Skins: 3 (regional modifications to colors and props apply)  
+![3x3 Wood](/data/mmx/buildings/warehouse/icons/ow_3x3_wood.png)
+![3x3 Reet](/data/mmx/buildings/warehouse/icons/ow_3x3_reet.png)
+![3x3 Crane](/data/mmx/buildings/warehouse/icons/ow_3x3_crane.png)
+
 Availability:
 - OW 1 artisan
 - NW 1 obrero
@@ -106,7 +111,6 @@ Costs:
 - 40 steal beams
 - 20 windows
 
-Skins: 3 (regional modifications to colors and props apply)  
 Maintenance: 70 coins  
 Loading ramps: 10  
 Storage: +20  
