@@ -24,6 +24,7 @@ Costs:
 - 250 coins
 - 10 timber (wanza timber for Africa)
 
+Skins: 2  
 Maintenance: 20 coins  
 Loading ramps: 4  
 Storage: +5  
@@ -46,6 +47,7 @@ Costs:
 - 30 timber (wanza timber for Africa)
 - 20 bricks (mud bricks for Africa)
 
+Skins: 2  
 Maintenance: 30 coins  
 Loading ramps: 6  
 Storage: +10  
@@ -91,6 +93,7 @@ Costs:
 - 40 steal beams
 - 20 windows
 
+Skins: 3  
 Maintenance: 70 coins  
 Loading ramps: 10  
 Storage: +20  
@@ -112,6 +115,7 @@ Costs:
 - 50 timber (wanza timber for Africa)
 - 20 bricks (mud bricks for Africa)
 
+Variations: 4  
 Maintenance: 40 coins  
 Loading ramps: 6  
 Storage: +20  
