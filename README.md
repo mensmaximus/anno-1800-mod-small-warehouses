@@ -13,9 +13,47 @@ The mod adds a couple of warehouses with a smaller footprint (1x2, 2x2 and 3x3) 
 
 ## Small Warehouse Specs
 
-### 1x2 Simple
+### 1x2 Simple  
+Availability:
+- OW 1 farmer
+- NW 1 jornalero
+- Africa 1 shepherd
+- Arctic 1 explorer
+
+Costs:
+- 250 coins
+- 10 timber (wanza timber for Africa)
+
+Maintenance: 20 coins  
+Loading ramps: 4  
+Storage: +5  
+Fire, explosion, riot risk: -3  
+Risk reduction radius: 5 tiles
+
+Special: 
+- Upgradable to small warehouse 1x2
+- Can delivery heat in Arctic in a radius of 1 tile
 
 ### 1x2
+Availability:
+- OW 1 worker
+- NW 1 jornalero
+- Africa 1 elder
+- Arctic 1 explorer
+
+Costs:
+- 400 coins
+- 30 timber (wanza timber for Africa)
+- 20 bricks (mud bricks for Africa)
+
+Maintenance: 30 coins  
+Loading ramps: 6  
+Storage: +10  
+Fire, explosion, riot risk: -3  
+Risk reduction radius: 10 tiles
+
+Special: 
+- Can delivery heat in Arctic in a radius of 1 tile
 
 ### 2x2
 
