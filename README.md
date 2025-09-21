@@ -29,7 +29,7 @@ Costs:
 
 Skins: 2  
 ![OW](/data/mmx/buildings/warehouse/icons/ow_1x2_simple.png)
-![OW yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_simple_yellow.png)
+![OW yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_simple_yellow.png)  
 Maintenance: 20 coins  
 Loading ramps: 4  
 Storage: +5  
