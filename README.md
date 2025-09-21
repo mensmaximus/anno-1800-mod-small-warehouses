@@ -53,6 +53,8 @@ Costs:
 - 20 bricks (mud bricks for Africa)
 
 Skins: 2  
+![OW](/data/mmx/buildings/warehouse/icons/ow_1x2.png)
+![OW yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_crane.png)  
 Maintenance: 30 coins  
 Loading ramps: 6  
 Storage: +10  
