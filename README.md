@@ -138,5 +138,6 @@ Landbased Small Warehouses provide the following ground plates for each skin (3x
 - Africa: no ground, africa grass, stone, sand, dirt, street stone, beton
   ![Africa decals](/data/mmx/buildings/warehouse/icons/decals_africa.png)
 - Arctic: no ground, snow, snow plates, ice
+  ![Arctic decals](/data/mmx/buildings/warehouse/icons/decals_arctic.png)
 
 **Ground decals can be changed by either pressing CRTL+V while a Smnall Warehouse is selcted or by chaning the GUI (cudos to @kurila) with SHIFT+C and switching through the ground variations. Harbour variations are changed by pressing CRTL+V.**
