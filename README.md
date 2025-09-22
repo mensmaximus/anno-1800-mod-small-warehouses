@@ -17,6 +17,10 @@ The mod adds a couple of warehouses with a smaller footprint (1x2, 2x2 and 3x3) 
 ## Small Warehouse Specs
 
 ### 1x2 Simple  
+Skins: 2 (regional modifications to colors and props apply)  
+![1x2 Simplw](/data/mmx/buildings/warehouse/icons/ow_1x2_simple.png)
+![1x2 yellow](/data/mmx/buildings/warehouse/icons/ow_1x2_simple_yellow.png)
+
 Availability:
 - OW 1 farmer
 - NW 1 jornalero
@@ -27,7 +31,6 @@ Costs:
 - 250 coins
 - 10 timber (wanza timber for Africa)
 
-Skins: 2  
 Maintenance: 20 coins  
 Loading ramps: 4  
 Storage: +5  
@@ -39,6 +42,10 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 1x2
+Skins: 2 (regional modifications to colors and props apply)  
+![1x2](/data/mmx/buildings/warehouse/icons/ow_1x2.png)
+![1x2 Industrial](/data/mmx/buildings/warehouse/icons/ow_1x2_crane.png)
+
 Availability:
 - OW 1 worker
 - NW 1 jornalero
@@ -49,8 +56,7 @@ Costs:
 - 400 coins
 - 30 timber (wanza timber for Africa)
 - 20 bricks (mud bricks for Africa)
-
-Skins: 2  
+  
 Maintenance: 30 coins  
 Loading ramps: 6  
 Storage: +10  
@@ -61,6 +67,10 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 2x2
+Skins: 2 (regional modifications to colors and props apply)  
+![2x2 Wood](/data/mmx/buildings/warehouse/icons/ow_2x2_wood.png)
+![2x2 Reet](/data/mmx/buildings/warehouse/icons/ow_2x2_reet.png)
+
 Availability:
 - OW 1 worker
 - NW 1 obrero
@@ -73,7 +83,6 @@ Costs:
 - 50 bricks (mud bricks for Africa)
 - 20 steal beams
 
-Skins: 2  
 Maintenance: 50 coins  
 Loading ramps: 8  
 Storage: +15  
@@ -84,6 +93,11 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 3x3
+Skins: 3 (regional modifications to colors and props apply)  
+![3x3 Wood](/data/mmx/buildings/warehouse/icons/ow_3x3_wood.png)
+![3x3 Reet](/data/mmx/buildings/warehouse/icons/ow_3x3_reet.png)
+![3x3 Crane](/data/mmx/buildings/warehouse/icons/ow_3x3_crane.png)
+
 Availability:
 - OW 1 artisan
 - NW 1 obrero
@@ -97,7 +111,6 @@ Costs:
 - 40 steal beams
 - 20 windows
 
-Skins: 3  
 Maintenance: 70 coins  
 Loading ramps: 10  
 Storage: +20  
@@ -108,6 +121,9 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### Harbour
+Variations: 4  
+(Images follow soon)
+
 Availability:
 - OW 1 worker
 - NW 1 jornalero
@@ -119,7 +135,6 @@ Costs:
 - 50 timber (wanza timber for Africa)
 - 20 bricks (mud bricks for Africa)
 
-Variations: 4  
 Maintenance: 40 coins  
 Loading ramps: 6  
 Storage: +20  
@@ -131,12 +146,13 @@ Risk reduction radius: 10 tiles
 Harbour Small Warehouses are built on the region specific quay system.
 
 Landbased Small Warehouses provide the following ground plates for each skin (3x3 variation under development)
-- OW: no ground, grass, sand, street stone, cobble (jakob), cobble, industrial, beton, plaza, grave stone, marmor, mosaic, beach
+- OW: no ground, grass, sand, street stone, cobble (jakob), cobble, industrial, beton, plaza, grave stone, marmor, mosaic, beach  
   ![OW decals](/data/mmx/buildings/warehouse/icons/decals_ow.png)
-- NW: no ground, grass, sand, street stone, cobble (jakob), cobble, beton, hacienda, terracote, traditional, plaza, grave stone, mosaic, beach
+- NW: no ground, grass, sand, street stone, cobble (jakob), cobble, beton, hacienda, terracote, traditional, plaza, grave stone, mosaic, beach  
   ![NW decals](/data/mmx/buildings/warehouse/icons/decals_nw.png)
-- Africa: no ground, africa grass, stone, sand, dirt, street stone, beton
+- Africa: no ground, africa grass, stone, sand, dirt, street stone, beton  
   ![Africa decals](/data/mmx/buildings/warehouse/icons/decals_africa.png)
-- Arctic: no ground, snow, snow plates, ice
+- Arctic: no ground, snow, snow plates, ice  
+  ![Arctic decals](/data/mmx/buildings/warehouse/icons/decals_arctic.png)
 
 **Ground decals can be changed by either pressing CRTL+V while a Smnall Warehouse is selcted or by chaning the GUI (cudos to @kurila) with SHIFT+C and switching through the ground variations. Harbour variations are changed by pressing CRTL+V.**
