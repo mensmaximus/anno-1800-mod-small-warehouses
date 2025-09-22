@@ -48,6 +48,9 @@
                             <IconFilename>data/mmx/decals/cobble/icon_cobble.png</IconFilename>
                         </Item>
                         <Item>
+                            <IconFilename>data/mmx/decals/industrial/icon_industrial.png</IconFilename>
+                        </Item>
+                        <Item>
                             <IconFilename>data/mmx/decals/beton/icon_beton.png</IconFilename>
                         </Item>
                         <Item>
@@ -110,6 +113,9 @@
                         </Item>
                         <Item>
                             <Filename>data/mmx/buildings/warehouse/ow_1x2_simple/ow_1x2_simple_cobble.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/mmx/buildings/warehouse/ow_1x2_simple/ow_1x2_simple_industrial.cfg</Filename>
                         </Item>
                         <Item>
                             <Filename>data/mmx/buildings/warehouse/ow_1x2_simple/ow_1x2_simple_beton.cfg</Filename>

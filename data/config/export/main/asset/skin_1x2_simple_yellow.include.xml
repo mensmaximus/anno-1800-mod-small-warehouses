@@ -34,6 +34,9 @@
                             <FileName>data/mmx/buildings/warehouse/ow_1x2_simple/ow_1x2_simple_yellow_cobble.cfg</FileName>
                         </Item>
                         <Item>
+                            <FileName>data/mmx/buildings/warehouse/ow_1x2_simple/ow_1x2_simple_yellow_industrial.cfg</FileName>
+                        </Item>
+                        <Item>
                             <FileName>data/mmx/buildings/warehouse/ow_1x2_simple/ow_1x2_simple_yellow_beton.cfg</FileName>
                         </Item>
                         <Item>
