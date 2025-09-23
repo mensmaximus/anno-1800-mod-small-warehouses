@@ -1,0 +1,73 @@
+<ModOps>
+
+    <!-- New World Skin -->
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477196</GUID>
+                    <Name>Skin Small Warehouse 2x2 Colony Style New World</Name>
+                    <IconFilename>
+                        data/mmx/buildings/warehouse/icons/nw_2x2_colony_01.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477196</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477217</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_default.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_grass.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_sand.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_street.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_jakob_stone.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_cobble.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_tradition.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_beton.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_plaza.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_grave.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_mosaic.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/warehouse/nw_2x2/nw_2x2_colony_beach.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    
+</ModOps>
