@@ -72,10 +72,10 @@ Special:
 ### 2x2
 Skins: 2 or 3 (regional modifications to colors and props apply)  
 ![2x2 Wood](/data/mmx/buildings/warehouse/icons/ow_2x2_wood.png)
-![2x2 Reet](/data/mmx/buildings/warehouse/icons/ow_2x2_reet.png) {
+![2x2 Reet](/data/mmx/buildings/warehouse/icons/ow_2x2_reet.png) >>>
 ![2x2 Old World Colony](/data/mmx/buildings/warehouse/icons/ow_2x2_colony_01.png)
 ![2x2 New World Colony](/data/mmx/buildings/warehouse/icons/nw_2x2_colony_01.png)
-![2x2 New World Colony](/data/mmx/buildings/warehouse/icons/af_2x2_colony_01.png) }
+![2x2 New World Colony](/data/mmx/buildings/warehouse/icons/af_2x2_colony_01.png) <<<
 
 Availability:
 - OW 1 worker
