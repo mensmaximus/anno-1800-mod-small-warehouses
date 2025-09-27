@@ -157,6 +157,9 @@
                             <Item>
                                 <SkinAssetGuid>1337477171</SkinAssetGuid>
                             </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477166</SkinAssetGuid>
+                            </Item>
                         </SkinList>
                     </Skins>
                 </Object>

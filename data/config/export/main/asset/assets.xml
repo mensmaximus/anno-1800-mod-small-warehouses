@@ -24,6 +24,7 @@
 	<Include File="./arctic_3x3.include.xml" />
 	<Include File="./arctic_harbour.include.xml" />
 	<Include File="./skin_1x2_crane.include.xml" />
+	<Include File="./skin_1x2_colony.include.xml" />
 	<Include File="./skin_1x2_simple_yellow.include.xml" />
 	<Include File="./skin_2x2_reet.include.xml" />
 	<Include File="./skin_2x2_colony.include.xml" />
