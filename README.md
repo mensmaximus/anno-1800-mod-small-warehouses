@@ -45,9 +45,11 @@ Special:
 - Can delivery heat in Arctic in a radius of 1 tile (IMYA needed to activate)
 
 ### 1x2
-Skins: 2 (regional modifications to colors and props apply)  
+Skins: 2 or 3 (regional modifications to colors and props apply)  
 ![1x2](/data/mmx/buildings/warehouse/icons/ow_1x2.png)
-![1x2 Industrial](/data/mmx/buildings/warehouse/icons/ow_1x2_crane.png)
+![1x2 Industrial](/data/mmx/buildings/warehouse/icons/ow_1x2_crane.png) >>>
+![1x2 Old World Colony](/data/mmx/buildings/warehouse/icons/ow_1x2_colony_01.png)
+![1x2 New World Colony](/data/mmx/buildings/warehouse/icons/nw_1x2_colony_01.png) <<<
 
 Availability:
 - OW 1 worker
@@ -75,7 +77,7 @@ Skins: 2 or 3 (regional modifications to colors and props apply)
 ![2x2 Reet](/data/mmx/buildings/warehouse/icons/ow_2x2_reet.png) >>>
 ![2x2 Old World Colony](/data/mmx/buildings/warehouse/icons/ow_2x2_colony_01.png)
 ![2x2 New World Colony](/data/mmx/buildings/warehouse/icons/nw_2x2_colony_01.png)
-![2x2 New World Colony](/data/mmx/buildings/warehouse/icons/af_2x2_colony_01.png) <<<
+![2x2 Africa Colony](/data/mmx/buildings/warehouse/icons/af_2x2_colony_01.png) <<<
 
 Availability:
 - OW 1 worker
